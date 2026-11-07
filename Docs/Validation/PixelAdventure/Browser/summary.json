@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "outcome": "Victory",
+  "stages": [
+    0,
+    1,
+    2
+  ],
+  "break": true,
+  "hit": true,
+  "exchange": true,
+  "locale_switch": true,
+  "hover_neighbour_drag": true,
+  "viewport": [
+    1280,
+    720,
+    960,
+    540
+  ],
+  "page_errors": [],
+  "actions": 79
+}

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d716daadb80db134995e52059bb999d3, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: LuckySeven.Runtime::LuckySeven.Config.GameConfig
+  playerHp: 30
+  betweenBattleHeal: 6
+  useFixedSeed: 0
+  fixedSeed: 7
+  enemies:
+  - displayName: THE BROKEN DIE
+    hp: 18
+    attack: 2
+    armor: 3
+    emblem: ': :'
+  - displayName: THE DEVIATION
+    hp: 24
+    attack: 3
+    armor: 4
+    emblem: "\xB1"
+  - displayName: ROGUE SEVEN
+    hp: 30
+    attack: 4
+    armor: 5
+    emblem: 7

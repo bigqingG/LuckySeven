@@ -1,0 +1,1 @@
+63 keys x 2 locales; 18 static label bindings; Chinese font multi-atlas: True; all translations present.

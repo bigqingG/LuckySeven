@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" testcasecount="3" result="Passed" total="3" passed="3" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.5.0.0" clr-version="4.0.30319.42000" start-time="2026-11-06 15:36:47Z" end-time="2026-11-06 15:37:11Z" duration="23.7653712">
+  <test-suite type="TestSuite" id="1013" name="Lucky Seven" fullname="Lucky Seven" runstate="Runnable" testcasecount="3" result="Passed" start-time="2026-11-06 15:36:47Z" end-time="2026-11-06 15:37:11Z" duration="23.765371" total="3" passed="3" failed="0" inconclusive="0" skipped="0" asserts="0">
+    <properties>
+      <property name="platform" value="PlayMode" />
+    </properties>
+    <test-suite type="Assembly" id="1007" name="LuckySeven.PlayModeTests.dll" fullname="E:/MyUnityProjects/Lucky Seven/Library/ScriptAssemblies/LuckySeven.PlayModeTests.dll" runstate="Runnable" testcasecount="3" result="Passed" start-time="2026-11-06 15:36:47Z" end-time="2026-11-06 15:37:11Z" duration="23.735435" total="3" passed="3" failed="0" inconclusive="0" skipped="0" asserts="0">
+      <properties>
+        <property name="_PID" value="116692" />
+        <property name="_APPDOMAIN" value="Unity Child Domain" />
+        <property name="platform" value="PlayMode" />
+        <property name="EditorOnly" value="False" />
+      </properties>
+      <test-suite type="TestSuite" id="1008" name="LuckySeven" fullname="LuckySeven" runstate="Runnable" testcasecount="3" result="Passed" start-time="2026-11-06 15:36:47Z" end-time="2026-11-06 15:37:11Z" duration="23.728735" total="3" passed="3" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <properties />
+        <test-suite type="TestSuite" id="1009" name="Tests" fullname="LuckySeven.Tests" runstate="Runnable" testcasecount="3" result="Passed" start-time="2026-11-06 15:36:47Z" end-time="2026-11-06 15:37:11Z" duration="23.722392" total="3" passed="3" failed="0" inconclusive="0" skipped="0" asserts="0">
+          <properties />
+          <test-suite type="TestFixture" id="1001" name="FlowTests" fullname="LuckySeven.Tests.FlowTests" classname="LuckySeven.Tests.FlowTests" runstate="Runnable" testcasecount="1" result="Passed" start-time="2026-11-06 15:36:47Z" end-time="2026-11-06 15:37:04Z" duration="17.384724" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+            <properties />
+            <test-case id="1002" name="CardUiCompleteRunAndReplay" fullname="LuckySeven.Tests.FlowTests.CardUiCompleteRunAndReplay" methodname="CardUiCompleteRunAndReplay" classname="LuckySeven.Tests.FlowTests" runstate="Runnable" seed="68450026" result="Passed" start-time="2026-11-06 15:36:47Z" end-time="2026-11-06 15:37:04Z" duration="17.365326" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="Timeout" value="60000" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" id="1003" name="LocalizationCardTests" fullname="LuckySeven.Tests.LocalizationCardTests" classname="LuckySeven.Tests.LocalizationCardTests" runstate="Runnable" testcasecount="1" result="Passed" start-time="2026-11-06 15:37:04Z" end-time="2026-11-06 15:37:07Z" duration="2.458889" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+            <properties />
+            <test-case id="1004" name="ChineseEnglishSwitchPreservesBattleAndHoverIsReadable" fullname="LuckySeven.Tests.LocalizationCardTests.ChineseEnglishSwitchPreservesBattleAndHoverIsReadable" methodname="ChineseEnglishSwitchPreservesBattleAndHoverIsReadable" classname="LuckySeven.Tests.LocalizationCardTests" runstate="Runnable" seed="186766320" result="Passed" start-time="2026-11-06 15:37:04Z" end-time="2026-11-06 15:37:07Z" duration="2.451249" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="Timeout" value="60000" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" id="1005" name="TableInteractionTests" fullname="LuckySeven.Tests.TableInteractionTests" classname="LuckySeven.Tests.TableInteractionTests" runstate="Runnable" testcasecount="1" result="Passed" start-time="2026-11-06 15:37:07Z" end-time="2026-11-06 15:37:11Z" duration="3.872056" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+            <properties />
+            <test-case id="1006" name="StageReturnAndDragRejectInvalidDrops" fullname="LuckySeven.Tests.TableInteractionTests.StageReturnAndDragRejectInvalidDrops" methodname="StageReturnAndDragRejectInvalidDrops" classname="LuckySeven.Tests.TableInteractionTests" runstate="Runnable" seed="2108433455" result="Passed" start-time="2026-11-06 15:37:07Z" end-time="2026-11-06 15:37:11Z" duration="3.853280" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="Timeout" value="60000" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+              <output><![CDATA[Saving results to: Docs/Validation/LocalizedCards/PlayMode.xml
+]]></output>
+            </test-case>
+          </test-suite>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

@@ -1,0 +1,378 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: GameText_en
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 8a581ed500b6a294bbdb85f7bd5108f7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1496309760
+    m_Localized: LUCKY SEVEN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1731190784
+    m_Localized: "LUCKY SEVEN / CARD PROTOTYPE    \u2022    ADD. BREAK. STRIKE.   
+      \u2022    ABILITIES TRIGGER ONLY ON ATTACK"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385088
+    m_Localized: BUILD YOUR HAND. CHANGE YOUR ODDS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385089
+    m_Localized: LUCKY SEVEN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385090
+    m_Localized: Two lucky numbers. One perfect opening.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385091
+    m_Localized: DEAL ME IN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385092
+    m_Localized: HOW TO PLAY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385093
+    m_Localized: GOT IT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385094
+    m_Localized: THE CALIBRATOR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385095
+    m_Localized: SAVE A CARD FOR THE FINISHING BLOW
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385096
+    m_Localized: LUCKY TARGETS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385097
+    m_Localized: ADD CARD VALUES TO EITHER TARGET
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385098
+    m_Localized: CLEAR / BACK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385099
+    m_Localized: NORMAL ATTACK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385100
+    m_Localized: ATTACK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385101
+    m_Localized: BREAK ARMOR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385102
+    m_Localized: RETURN & DRAW
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385103
+    m_Localized: DISCARD SELECTED
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385104
+    m_Localized: NEXT ENCOUNTER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385105
+    m_Localized: DEAL AGAIN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385106
+    m_Localized: SOUND ON
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385107
+    m_Localized: SOUND OFF
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385108
+    m_Localized: 'Language: English'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385109
+    m_Localized: ENCOUNTER {0} / {1}    /    TURN {2}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385110
+    m_Localized: VITALITY {0}/{1}    /    BLOCK {2}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385111
+    m_Localized: ARMOR {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385112
+    m_Localized: ARMOR BROKEN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385113
+    m_Localized: '{0}/{1} HP   /   {2}
+
+      COUNTER {3} AFTER YOUR ATTACK'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385114
+    m_Localized: HAND {0}/{1}    DRAW {2}    DISCARD {3}    NEXT DRAW +{4}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385115
+    m_Localized: SELECT YOUR CARDS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385116
+    m_Localized: CHOOSE YOUR SECOND LUCKY NUMBER. It stays for this encounter.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385117
+    m_Localized: 'SUPPLY: draw 2, or return 2 to the deck bottom and draw 3.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385118
+    m_Localized: 'RETURN {0}/2: choose two cards. Returned cards cannot be drawn
+      immediately.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385119
+    m_Localized: 'HAND LIMIT: discard {0} cards to continue. Selected {1}.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385120
+    m_Localized: Click / drag cards to the table. Make a lucky sum; keep one card
+      to attack.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385121
+    m_Localized: 'ARMOR BROKEN: stage ONE card, then confirm ATTACK.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385122
+    m_Localized: Resolving attack...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385123
+    m_Localized: DRAW {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385124
+    m_Localized: RETURN 2 / DRAW {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385125
+    m_Localized: 'CLICK OR DRAG CARDS HERE
+
+      Click a staged card to return it
+      to your hand.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385126
+    m_Localized: CHOOSE YOUR SUPPLY BELOW
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385127
+    m_Localized: STRIKE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385128
+    m_Localized: WARD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385129
+    m_Localized: ECHO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385130
+    m_Localized: ATK +2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385131
+    m_Localized: BLOCK +3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385132
+    m_Localized: NEXT +1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385133
+    m_Localized: THE BROKEN DIE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385134
+    m_Localized: THE DEVIATION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385135
+    m_Localized: ROGUE SEVEN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385136
+    m_Localized: FATE RECALIBRATED
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385137
+    m_Localized: LUCK IS ON YOUR SIDE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385138
+    m_Localized: OUT OF LUCK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385139
+    m_Localized: '{0} defeated.
+
+      Recovered {1} HP. Unspent cards stay in your
+      hand.
+
+      Choose a new lucky number next encounter.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385140
+    m_Localized: All three anomalies defeated.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385141
+    m_Localized: Try saving Ward cards to absorb counters.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385142
+    m_Localized: '{0}
+
+
+      {1} ATTACKS  /  {2} BREAKS  /  {3} SECOND LUCK
+
+      SEED
+      {4}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385143
+    m_Localized: LUCKY! ARMOR BROKEN / CHOOSE ONE ATTACK CARD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385144
+    m_Localized: BREAK STRIKE   -{0} HP   /   {1}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385145
+    m_Localized: NORMAL STRIKE   -{0} HP   /   {1}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385146
+    m_Localized: COUNTER {0}   /   BLOCKED {1}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385147
+    m_Localized: ADD. BREAK. STRIKE.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385148
+    m_Localized: '1. Start with 5 cards. Choose a second lucky number each encounter.
+
+      2.
+      Each turn: draw 2 OR return 2 to the deck bottom and draw 3.
+
+      3. Click
+      / drag cards to the table. Click them again to return to hand.
+
+      4. Add
+      to 7 or your lucky number, then BREAK. Keep one attack card!
+
+      5. Break
+      with 1 / 2 / 3+ cards: next hit +0 / +2 / +4. Play one attack card.
+
+      6.
+      STRIKE: +2 damage. WARD: block 3. ECHO: +1 draw next turn.
+
+      7. No lucky
+      sum? Select one card for a NORMAL ATTACK through armor.
+
+      8. Surviving
+      enemies counterattack; armor returns next turn.
+
+      9. Unspent cards stay.
+      Above 9 cards, choose excess cards to discard.
+
+
+      Defeat three enemies.
+      Heal 6 between encounters. No time limit.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53640764055552
+    m_Localized: 'HP {0}/{1}
+
+      BLOCK {2}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53641011519488
+    m_Localized: 'HP {0}/{1}
+
+      {2} / COUNTER {3}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53641011519489
+    m_Localized: 'HAND {0}/{1}
+
+      DECK {2} / USED {3}
+
+      NEXT DRAW +{4}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53641011519490
+    m_Localized: ATTACK ABILITIES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53641011519491
+    m_Localized: TRIGGER ONLY ON ATTACK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53641011519492
+    m_Localized: RETURN 2 / DRAW {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 230941095092224
+    m_Localized: '{0}-CARD BREAK / COMBO +{1} / THEN PICK AN ATTACK CARD'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 230941283835904
+    m_Localized: COMBO +{0} / PICK AN ATTACK CARD TO PREVIEW DAMAGE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 230941283835905
+    m_Localized: DAMAGE {0} = VALUE {1} + STRIKE {2} + COMBO {3} / IGNORE ARMOR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 230941283835906
+    m_Localized: NORMAL DAMAGE {0} = VALUE {1} + STRIKE {2} - ARMOR {3} / MIN 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 230941283835907
+    m_Localized: ARMOR BROKEN / COMBO BONUS +{0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 230941283835908
+    m_Localized: COMBO +{0}
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

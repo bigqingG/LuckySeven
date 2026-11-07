@@ -1,0 +1,2 @@
+023211bdaea51e4e637421f57ff2566659a5ab10af77ea592850af0bcf370523  Docs\Validation\LocalizedCards\Browser\LuckySeven-Chinese-Poker-Demo.mp4
+a285b2dabc9f6c291dbd3874a7793a6c1bdf20500ebf768f7f62e53a366f6e49  Builds\LuckySeven-Chinese-Poker-WebGL.zip

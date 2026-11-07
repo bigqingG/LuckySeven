@@ -1,0 +1,328 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: GameText Shared Data
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
+  m_TableCollectionName: GameText
+  m_TableCollectionNameGuidString: 8a581ed500b6a294bbdb85f7bd5108f7
+  m_Entries:
+  - m_Id: 1496309760
+    m_Key: brand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1731190784
+    m_Key: footer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385088
+    m_Key: menu.index
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385089
+    m_Key: menu.title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385090
+    m_Key: menu.tagline
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385091
+    m_Key: play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385092
+    m_Key: help
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385093
+    m_Key: close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385094
+    m_Key: player.name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385095
+    m_Key: player.plan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385096
+    m_Key: target.caption
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385097
+    m_Key: target.rule
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385098
+    m_Key: clear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385099
+    m_Key: attack.normal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385100
+    m_Key: attack.confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385101
+    m_Key: break
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385102
+    m_Key: exchange.confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385103
+    m_Key: discard.confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385104
+    m_Key: next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385105
+    m_Key: replay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385106
+    m_Key: sound.on
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385107
+    m_Key: sound.off
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385108
+    m_Key: language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385109
+    m_Key: stage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385110
+    m_Key: player.status
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385111
+    m_Key: armor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385112
+    m_Key: armor.broken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385113
+    m_Key: enemy.status
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385114
+    m_Key: piles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385115
+    m_Key: sum.empty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385116
+    m_Key: hint.choose
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385117
+    m_Key: hint.supply
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385118
+    m_Key: hint.exchange
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385119
+    m_Key: hint.trim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385120
+    m_Key: hint.play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385121
+    m_Key: hint.attack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385122
+    m_Key: hint.resolve
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385123
+    m_Key: draw
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385124
+    m_Key: exchange
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385125
+    m_Key: table.empty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385126
+    m_Key: table.supply
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385127
+    m_Key: effect.strike
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385128
+    m_Key: effect.ward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385129
+    m_Key: effect.echo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385130
+    m_Key: ability.strike
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385131
+    m_Key: ability.ward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385132
+    m_Key: ability.echo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385133
+    m_Key: enemy.0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385134
+    m_Key: enemy.1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385135
+    m_Key: enemy.2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385136
+    m_Key: result.between
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385137
+    m_Key: result.win
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385138
+    m_Key: result.lose
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385139
+    m_Key: result.between.body
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385140
+    m_Key: result.win.desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385141
+    m_Key: result.lose.desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385142
+    m_Key: result.stats
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385143
+    m_Key: fx.break
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385144
+    m_Key: fx.attack.break
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385145
+    m_Key: fx.attack.normal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385146
+    m_Key: fx.counter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385147
+    m_Key: help.title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735385148
+    m_Key: help.body
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53640764055552
+    m_Key: pixel.player
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53641011519488
+    m_Key: pixel.enemy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53641011519489
+    m_Key: pixel.piles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53641011519490
+    m_Key: pixel.legend
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53641011519491
+    m_Key: pixel.attackonly
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53641011519492
+    m_Key: pixel.exchange
+    m_Metadata:
+      m_Items: []
+  - m_Id: 230941095092224
+    m_Key: combo.ready
+    m_Metadata:
+      m_Items: []
+  - m_Id: 230941283835904
+    m_Key: combo.pending
+    m_Metadata:
+      m_Items: []
+  - m_Id: 230941283835905
+    m_Key: preview.break
+    m_Metadata:
+      m_Items: []
+  - m_Id: 230941283835906
+    m_Key: preview.normal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 230941283835907
+    m_Key: combo.locked
+    m_Metadata:
+      m_Items: []
+  - m_Id: 230941283835908
+    m_Key: combo.short
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 4790871367413399641
+  references:
+    version: 2
+    RefIds:
+    - rid: 4790871367413399641
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1793977678587

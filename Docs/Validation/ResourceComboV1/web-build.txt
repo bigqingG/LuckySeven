@@ -1,0 +1,7 @@
+Result: Succeeded
+Platform: WebGL
+Size: 35963775
+Errors: 0
+Warnings: 0
+Duration: 00:03:53.3846080
+Output: E:/MyUnityProjects/Lucky Seven/Builds/WebGLV2

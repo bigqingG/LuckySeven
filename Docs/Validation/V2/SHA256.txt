@@ -1,0 +1,2 @@
+4c79a14661a6bfae6dd9b0658d5c6c09944a3f57ce3411ba5f55ef5a0858a077  Builds\LuckySeven-Cards-WebGL.zip
+aca52149dc40a71dc6dc1875d968cf2466e4220461104ac24753852911530ac8  Docs\Validation\V2\Browser\LuckySeven-Cards-Playthrough.mp4

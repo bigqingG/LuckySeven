@@ -1,0 +1,27 @@
+{
+  "zip": "Builds\\LuckySeven-Web-Prototype-20261106.zip",
+  "bytes": 28832481,
+  "sha256": "c1d02bf6d30596754051ebc6fbc40abdd1acfe2b7eeb46702d3225d79d40bfc9",
+  "files": [
+    {
+      "path": "Build\\WebGL.data",
+      "bytes": 13541797
+    },
+    {
+      "path": "Build\\WebGL.framework.js",
+      "bytes": 810547
+    },
+    {
+      "path": "Build\\WebGL.loader.js",
+      "bytes": 58349
+    },
+    {
+      "path": "Build\\WebGL.wasm",
+      "bytes": 101844219
+    },
+    {
+      "path": "index.html",
+      "bytes": 2131
+    }
+  ]
+}

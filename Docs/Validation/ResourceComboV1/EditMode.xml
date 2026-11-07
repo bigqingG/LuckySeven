@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" testcasecount="39" result="Passed" total="39" passed="39" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.5.0.0" clr-version="4.0.30319.42000" start-time="2026-11-07 06:25:57Z" end-time="2026-11-07 06:25:58Z" duration="1.0986192">
+  <test-suite type="TestSuite" id="1000" name="Lucky Seven" fullname="Lucky Seven" runstate="Runnable" testcasecount="40" result="Passed" start-time="2026-11-07 06:25:57Z" end-time="2026-11-07 06:25:58Z" duration="1.098619" total="39" passed="39" failed="0" inconclusive="0" skipped="0" asserts="0">
+    <properties>
+      <property name="platform" value="EditMode" />
+    </properties>
+    <test-suite type="Assembly" id="1047" name="LuckySeven.EditModeTests.dll" fullname="E:/MyUnityProjects/Lucky Seven/Library/ScriptAssemblies/LuckySeven.EditModeTests.dll" runstate="Runnable" testcasecount="39" result="Passed" start-time="2026-11-07 06:25:57Z" end-time="2026-11-07 06:25:58Z" duration="0.997533" total="39" passed="39" failed="0" inconclusive="0" skipped="0" asserts="0">
+      <properties>
+        <property name="_PID" value="116692" />
+        <property name="_APPDOMAIN" value="Unity Child Domain" />
+        <property name="platform" value="EditMode" />
+        <property name="EditorOnly" value="True" />
+      </properties>
+      <test-suite type="TestSuite" id="1048" name="LuckySeven" fullname="LuckySeven" runstate="Runnable" testcasecount="39" result="Passed" start-time="2026-11-07 06:25:57Z" end-time="2026-11-07 06:25:58Z" duration="0.903529" total="39" passed="39" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <properties />
+        <test-suite type="TestSuite" id="1049" name="Tests" fullname="LuckySeven.Tests" runstate="Runnable" testcasecount="39" result="Passed" start-time="2026-11-07 06:25:57Z" end-time="2026-11-07 06:25:58Z" duration="0.803568" total="39" passed="39" failed="0" inconclusive="0" skipped="0" asserts="0">
+          <properties />
+          <test-suite type="TestFixture" id="1001" name="ResourceComboTests" fullname="LuckySeven.Tests.ResourceComboTests" classname="LuckySeven.Tests.ResourceComboTests" runstate="Runnable" testcasecount="14" result="Passed" start-time="2026-11-07 06:25:57Z" end-time="2026-11-07 06:25:58Z" duration="0.402916" total="14" passed="14" failed="0" inconclusive="0" skipped="0" asserts="0">
+            <properties />
+            <test-suite type="ParameterizedMethod" id="1014" name="BonusAddsDamageWithoutChangingAbilities" fullname="LuckySeven.Tests.ResourceComboTests.BonusAddsDamageWithoutChangingAbilities" classname="LuckySeven.Tests.ResourceComboTests" runstate="Runnable" testcasecount="3" result="Passed" start-time="2026-11-07 06:25:58Z" end-time="2026-11-07 06:25:58Z" duration="0.114468" total="3" passed="3" failed="0" inconclusive="0" skipped="0" asserts="0">
+              <properties />
+              <test-case id="1011" name="BonusAddsDamageWithoutChangingAbilities(Strike,15,0,0)" fullname="LuckySeven.Tests.ResourceComboTests.BonusAddsDamageWithoutChangingAbilities(Strike,15,0,0)" methodname="BonusAddsDamageWithoutChangingAbilities" classname="LuckySeven.Tests.ResourceComboTests" runstate="Runnable" seed="752893513" result="Passed" start-time="2026-11-07 06:25:58Z" end-time="2026-11-07 06:25:58Z" duration="0.011697" asserts="0">
+                <properties>
+                  <property name="retryIteration" value="0" />
+                  <property name="repeatIteration" value="0" />
+                </properties>
+              </test-case>
+              <test-case id="1012" name="BonusAddsDamageWithoutChangingAbilities(Ward,13,3,0)" fullname="LuckySeven.Tests.ResourceComboTests.BonusAddsDamageWithoutChangingAbilities(Ward,13,3,0)" methodname="BonusAddsDamageWithoutChangingAbilities" classname="LuckySeven.Tests.ResourceComboTests" runstate="Runnable" seed="471275179" result="Passed" start-time="2026-11-07 06:25:58Z" end-time="2026-11-07 06:25:58Z" duration="0.000168" asserts="0">
+                <properties>
+                  <property name="retryIteration" value="0" />
+                  <property name="repeatIteration" value="0" />
+                </properties>
+              </test-case>
+              <test-case id="1013" name="BonusAddsDamageWithoutChangingAbilities(Echo,13,0,1)" fullname="LuckySeven.Tests.ResourceComboTests.BonusAddsDamageWithoutChangingAbilities(Echo,13,0,1)" methodname="BonusAddsDamageWithoutChangingAbilities" classname="LuckySeven.Tests.ResourceComboTests" runstate="Runnable" seed="799519377" result="Passed" start-time="2026-11-07 06:25:58Z" end-time="2026-11-07 06:25:58Z" duration="0.000076" asserts="0">
+                <properties>
+                  <property name="retryIteration" value="0" />
+                  <property name="repeatIteration" value="0" />
+                </properties>
+              </test-case>
+            </test-suite>
+            <test-suite type="ParameterizedMethod" id="1010" name="ComboRewardIsLockedAndConsumedOnce" fullname="LuckySeven.Tests.ResourceComboTests.ComboRewardIsLockedAndConsumedOnce" classname="LuckySeven.Tests.ResourceComboTests" runstate="Runnable" testcasecount="8" result="Passed" start-time="2026-11-07 06:25:58Z" end-time="2026-11-07 06:25:58Z" duration="0.091861" total="8" passed="8" failed="0" inconclusive="0" skipped="0" asserts="0">
+              <properties />
+              <test-case id="1002" name="ComboRewardIsLockedAndConsumedOnce(1,0,False)" fullname="LuckySeven.Tests.ResourceComboTests.ComboRewardIsLockedAndConsumedOnce(1,0,False)" methodname="ComboRewardIsLockedAndConsumedOnce" classname="LuckySeven.Tests.ResourceComboTests" runstate="Runnable" seed="100653207" result="Passed" start-time="2026-11-07 06:25:58Z" end-time="2026-11-07 06:25:58Z" duration="0.005777" asserts="0">
+                <properties>
+                  <property name="retryIteration" value="0" />
+                  <property name="repeatIteration" value="0" />
+                </properties>
+              </test-case>
+              <test-case id="1003" name="ComboRewardIsLockedAndConsumedOnce(2,2,False)" fullname="LuckySeven.Tests.ResourceComboTests.ComboRewardIsLockedAndConsumedOnce(2,2,False)" methodname="ComboRewardIsLockedAndConsumedOnce" classname="LuckySeven.Tests.ResourceComboTests" runstate="Runnable" seed="928897651" result="Passed" start-time="2026-11-07 06:25:58Z" end-time="2026-11-07 06:25:58Z" duration="0.000184" asserts="0">
+                <properties>
+                  <property name="retryIteration" value="0" />
+                  <property name="repeatIteration" value="0" />
+                </properties>
+              </test-case>
+              <test-case id="1004" name="ComboRewardIsLockedAndConsumedOnce(3,4,False)" fullname="LuckySeven.Tests.ResourceComboTests.ComboRewardIsLockedAndConsumedOnce(3,4,False)" methodname="ComboRewardIsLockedAndConsumedOnce" classname="LuckySeven.Tests.ResourceComboTests" runstate="Runnable" seed="489256706" result="Passed" start-time="2026-11-07 06:25:58Z" end-time="2026-11-07 06:25:58Z" duration="0.000150" asserts="0">
+                <properties>
+                  <property name="retryIteration" value="0" />
+                  <property name="repeatIteration" value="0" />
+                </properties>
+              </test-case>
+              <test-case id="1005" name="ComboRewardIsLockedAndConsumedOnce(4,4,False)" fullname="LuckySeven.Tests.ResourceComboTests.ComboRewardIsLockedAndConsumedOnce(4,4,False)" methodname="ComboRewardIsLockedAndConsumedOnce" classname="LuckySeven.Tests.ResourceComboTests" runstate="Runnable" seed="1472615354" result="Passed" start-time="2026-11-07 06:25:58Z" end-time="2026-11-07 06:25:58Z" duration="0.002162" asserts="0">
+                <properties>
+                  <property name="retryIteration" value="0" />
+                  <property name="repeatIteration" value="0" />
+                </properties>
+              </test-case>
+              <test-case id="1006" name="ComboRewardIsLockedAndConsumedOnce(1,0,True)" fullname="LuckySeven.Tests.ResourceComboTests.ComboRewardIsLockedAndConsumedOnce(1,0,True)" methodname="ComboRewardIsLockedAndConsumedOnce" classname="LuckySeven.Tests.ResourceComboTests" runstate="Runnable" seed="1771274196" result="Passed" start-time="2026-11-07 06:25:58Z" end-time="2026-11-07 06:25:58Z" duration="0.000257" asserts="0">
+                <properties>
+                  <property name="retryIteration" value="0" />
+                  <property name="repeatIteration" value="0" />
+                </properties>
+              </test-case>
+              <test-case id="1007" name="ComboRewardIsLockedAndConsumedOnce(2,2,True)" fullname="LuckySeven.Tests.ResourceComboTests.ComboRewardIsLockedAndConsumedOnce(2,2,True)" methodname="ComboRewardIsLockedAndConsumedOnce" classname="LuckySeven.Tests.ResourceComboTests" runstate="Runnable" seed="717276548" result="Passed" start-time="2026-11-07 06:25:58Z" end-time="2026-11-07 06:25:58Z" duration="0.000135" asserts="0">
+                <properties>
+                  <property name="retryIteration" value="0" />
+                  <property name="repeatIteration" value="0" />
+                </properties>
+              </test-case>
+              <test-case id="1008" name="ComboRewardIsLockedAndConsumedOnce(3,4,True)" fullname="LuckySeven.Tests.ResourceComboTests.ComboRewardIsLockedAndConsumedOnce(3,4,True)" methodname="ComboRewardIsLockedAndConsumedOnce" classname="LuckySeven.Tests.ResourceComboTests" runstate="Runnable" seed="1049988200" result="Passed" start-time="2026-11-07 06:25:58Z" end-time="2026-11-07 06:25:58Z" duration="0.000133" asserts="0">
+                <properties>
+                  <property name="retryIteration" value="0" />
+                  <property name="repeatIteration" value="0" />
+                </properties>
+              </test-case>
+              <test-case id="1009" name="ComboRewardIsLockedAndConsumedOnce(4,4,True)" fullname="LuckySeven.Tests.ResourceComboTests.ComboRewardIsLockedAndConsumedOnce(4,4,True)" methodname="ComboRewardIsLockedAndConsumedOnce" classname="LuckySeven.Tests.ResourceComboTests" runstate="Runnable" seed="970944881" result="Passed" start-time="2026-11-07 06:25:58Z" end-time="2026-11-07 06:25:58Z" duration="0.000159" asserts="0">
+                <properties>
+                  <property name="retryIteration" value="0" />
+                  <property name="repeatIteration" value="0" />
+                </properties>
+              </test-case>
+            </test-suite>
+            <test-suite type="ParameterizedMethod" id="1017" name="EchoAddsOneToNewSupplyCounts" fullname="LuckySeven.Tests.ResourceComboTests.EchoAddsOneToNewSupplyCounts" classname="LuckySeven.Tests.ResourceComboTests" runstate="Runnable" testcasecount="2" result="Passed" start-time="2026-11-07 06:25:58Z" end-time="2026-11-07 06:25:58Z" duration="0.093508" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="0">
+              <properties />
+              <test-case id="1015" name="EchoAddsOneToNewSupplyCounts(False)" fullname="LuckySeven.Tests.ResourceComboTests.EchoAddsOneToNewSupplyCounts(False)" methodname="EchoAddsOneToNewSupplyCounts" classname="LuckySeven.Tests.ResourceComboTests" runstate="Runnable" seed="2035697353" result="Passed" start-time="2026-11-07 06:25:58Z" end-time="2026-11-07 06:25:58Z" duration="0.002845" asserts="0">
+                <properties>
+                  <property name="retryIteration" value="0" />
+                  <property name="repeatIteration" value="0" />
+                </properties>
+              </test-case>
+              <test-case id="1016" name="EchoAddsOneToNewSupplyCounts(True)" fullname="LuckySeven.Tests.ResourceComboTests.EchoAddsOneToNewSupplyCounts(True)" methodname="EchoAddsOneToNewSupplyCounts" classname="LuckySeven.Tests.ResourceComboTests" runstate="Runnable" seed="450253738" result="Passed" start-time="2026-11-07 06:25:58Z" end-time="2026-11-07 06:25:58Z" duration="0.000487" asserts="0">
+                <properties>
+                  <property name="retryIteration" value="0" />
+                  <property name="repeatIteration" value="0" />
+                </properties>
+              </test-case>
+            </test-suite>
+            <test-case id="1018" name="RestartAndNextBattleHaveNoComboReward" fullname="LuckySeven.Tests.ResourceComboTests.RestartAndNextBattleHaveNoComboReward" methodname="RestartAndNextBattleHaveNoComboReward" classname="LuckySeven.Tests.ResourceComboTests" runstate="Runnable" seed="1523214169" result="Passed" start-time="2026-11-07 06:25:58Z" end-time="2026-11-07 06:25:58Z" duration="0.001013" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" id="1019" name="RulesTests" fullname="LuckySeven.Tests.RulesTests" classname="LuckySeven.Tests.RulesTests" runstate="Runnable" testcasecount="25" result="Passed" start-time="2026-11-07 06:25:58Z" end-time="2026-11-07 06:25:58Z" duration="0.300244" total="25" passed="25" failed="0" inconclusive="0" skipped="0" asserts="0">
+            <properties />
+            <test-case id="1023" name="AllCardsCannotBreak" fullname="LuckySeven.Tests.RulesTests.AllCardsCannotBreak" methodname="AllCardsCannotBreak" classname="LuckySeven.Tests.RulesTests" runstate="Runnable" seed="189043870" result="Passed" start-time="2026-11-07 06:25:58Z" end-time="2026-11-07 06:25:58Z" duration="0.000405" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1031" name="ArmorReducesNormalAndMinimumIsOne" fullname="LuckySeven.Tests.RulesTests.ArmorReducesNormalAndMinimumIsOne" methodname="ArmorReducesNormalAndMinimumIsOne" classname="LuckySeven.Tests.RulesTests" runstate="Runnable" seed="1241430062" result="Passed" start-time="2026-11-07 06:25:58Z" end-time="2026-11-07 06:25:58Z" duration="0.000234" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1032" name="AttackLocksAndEnemyStillCountersAfterBreak" fullname="LuckySeven.Tests.RulesTests.AttackLocksAndEnemyStillCountersAfterBreak" methodname="AttackLocksAndEnemyStillCountersAfterBreak" classname="LuckySeven.Tests.RulesTests" runstate="Runnable" seed="1063397885" result="Passed" start-time="2026-11-07 06:25:58Z" end-time="2026-11-07 06:25:58Z" duration="0.001831" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1022" name="BreakSpendsSumButDoesNoDamage" fullname="LuckySeven.Tests.RulesTests.BreakSpendsSumButDoesNoDamage" methodname="BreakSpendsSumButDoesNoDamage" classname="LuckySeven.Tests.RulesTests" runstate="Runnable" seed="675086337" result="Passed" start-time="2026-11-07 06:25:58Z" end-time="2026-11-07 06:25:58Z" duration="0.000214" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-suite type="ParameterizedMethod" id="1046" name="CompleteRunsConserveDeckAndNeverDeadlock" fullname="LuckySeven.Tests.RulesTests.CompleteRunsConserveDeckAndNeverDeadlock" classname="LuckySeven.Tests.RulesTests" runstate="Runnable" testcasecount="10" result="Passed" start-time="2026-11-07 06:25:58Z" end-time="2026-11-07 06:25:58Z" duration="0.102821" total="10" passed="10" failed="0" inconclusive="0" skipped="0" asserts="0">
+              <properties />
+              <test-case id="1036" name="CompleteRunsConserveDeckAndNeverDeadlock(0)" fullname="LuckySeven.Tests.RulesTests.CompleteRunsConserveDeckAndNeverDeadlock(0)" methodname="CompleteRunsConserveDeckAndNeverDeadlock" classname="LuckySeven.Tests.RulesTests" runstate="Runnable" seed="587189725" result="Passed" start-time="2026-11-07 06:25:58Z" end-time="2026-11-07 06:25:58Z" duration="0.001425" asserts="0">
+                <properties>
+                  <property name="retryIteration" value="0" />
+                  <property name="repeatIteration" value="0" />
+                </properties>
+              </test-case>
+              <test-case id="1037" name="CompleteRunsConserveDeckAndNeverDeadlock(1)" fullname="LuckySeven.Tests.RulesTests.CompleteRunsConserveDeckAndNeverDeadlock(1)" methodname="CompleteRunsConserveDeckAndNeverDeadlock" classname="LuckySeven.Tests.RulesTests" runstate="Runnable" seed="428824529" result="Passed" start-time="2026-11-07 06:25:58Z" end-time="2026-11-07 06:25:58Z" duration="0.000460" asserts="0">
+                <properties>
+                  <property name="retryIteration" value="0" />
+                  <property name="repeatIteration" value="0" />
+                </properties>
+              </test-case>
+              <test-case id="1038" name="CompleteRunsConserveDeckAndNeverDeadlock(2)" fullname="LuckySeven.Tests.RulesTests.CompleteRunsConserveDeckAndNeverDeadlock(2)" methodname="CompleteRunsConserveDeckAndNeverDeadlock" classname="LuckySeven.Tests.RulesTests" runstate="Runnable" seed="1815210393" result="Passed" start-time="2026-11-07 06:25:58Z" end-time="2026-11-07 06:25:58Z" duration="0.000378" asserts="0">
+                <properties>
+                  <property name="retryIteration" value="0" />
+                  <property name="repeatIteration" value="0" />
+                </properties>
+              </test-case>
+              <test-case id="1039" name="CompleteRunsConserveDeckAndNeverDeadlock(3)" fullname="LuckySeven.Tests.RulesTests.CompleteRunsConserveDeckAndNeverDeadlock(3)" methodname="CompleteRunsConserveDeckAndNeverDeadlock" classname="LuckySeven.Tests.RulesTests" runstate="Runnable" seed="977385813" result="Passed" start-time="2026-11-07 06:25:58Z" end-time="2026-11-07 06:25:58Z" duration="0.000476" asserts="0">
+                <properties>
+                  <property name="retryIteration" value="0" />
+                  <property name="repeatIteration" value="0" />
+                </properties>
+              </test-case>
+              <test-case id="1040" name="CompleteRunsConserveDeckAndNeverDeadlock(4)" fullname="LuckySeven.Tests.RulesTests.CompleteRunsConserveDeckAndNeverDeadlock(4)" methodname="CompleteRunsConserveDeckAndNeverDeadlock" classname="LuckySeven.Tests.RulesTests" runstate="Runnable" seed="925407727" result="Passed" start-time="2026-11-07 06:25:58Z" end-time="2026-11-07 06:25:58Z" duration="0.000394" asserts="0">
+                <properties>
+                  <property name="retryIteration" value="0" />
+                  <property name="repeatIteration" value="0" />
+                </properties>
+              </test-case>
+              <test-case id="1041" name="CompleteRunsConserveDeckAndNeverDeadlock(5)" fullname="LuckySeven.Tests.RulesTests.CompleteRunsConserveDeckAndNeverDeadlock(5)" methodname="CompleteRunsConserveDeckAndNeverDeadlock" classname="LuckySeven.Tests.RulesTests" runstate="Runnable" seed="1990900700" result="Passed" start-time="2026-11-07 06:25:58Z" end-time="2026-11-07 06:25:58Z" duration="0.000547" asserts="0">
+                <properties>
+                  <property name="retryIteration" value="0" />
+                  <property name="repeatIteration" value="0" />
+                </properties>
+              </test-case>
+              <test-case id="1042" name="CompleteRunsConserveDeckAndNeverDeadlock(6)" fullname="LuckySeven.Tests.RulesTests.CompleteRunsConserveDeckAndNeverDeadlock(6)" methodname="CompleteRunsConserveDeckAndNeverDeadlock" classname="LuckySeven.Tests.RulesTests" runstate="Runnable" seed="924211217" result="Passed" start-time="2026-11-07 06:25:58Z" end-time="2026-11-07 06:25:58Z" duration="0.000443" asserts="0">
+                <properties>
+                  <property name="retryIteration" value="0" />
+                  <property name="repeatIteration" value="0" />
+                </properties>
+              </test-case>
+              <test-case id="1043" name="CompleteRunsConserveDeckAndNeverDeadlock(7)" fullname="LuckySeven.Tests.RulesTests.CompleteRunsConserveDeckAndNeverDeadlock(7)" methodname="CompleteRunsConserveDeckAndNeverDeadlock" classname="LuckySeven.Tests.RulesTests" runstate="Runnable" seed="1221174586" result="Passed" start-time="2026-11-07 06:25:58Z" end-time="2026-11-07 06:25:58Z" duration="0.000388" asserts="0">
+                <properties>
+                  <property name="retryIteration" value="0" />
+                  <property name="repeatIteration" value="0" />
+                </properties>
+              </test-case>
+              <test-case id="1044" name="CompleteRunsConserveDeckAndNeverDeadlock(8)" fullname="LuckySeven.Tests.RulesTests.CompleteRunsConserveDeckAndNeverDeadlock(8)" methodname="CompleteRunsConserveDeckAndNeverDeadlock" classname="LuckySeven.Tests.RulesTests" runstate="Runnable" seed="1534160871" result="Passed" start-time="2026-11-07 06:25:58Z" end-time="2026-11-07 06:25:58Z" duration="0.000423" asserts="0">
+                <properties>
+                  <property name="retryIteration" value="0" />
+                  <property name="repeatIteration" value="0" />
+                </properties>
+              </test-case>
+              <test-case id="1045" name="CompleteRunsConserveDeckAndNeverDeadlock(9)" fullname="LuckySeven.Tests.RulesTests.CompleteRunsConserveDeckAndNeverDeadlock(9)" methodname="CompleteRunsConserveDeckAndNeverDeadlock" classname="LuckySeven.Tests.RulesTests" runstate="Runnable" seed="814871537" result="Passed" start-time="2026-11-07 06:25:58Z" end-time="2026-11-07 06:25:58Z" duration="0.000423" asserts="0">
+                <properties>
+                  <property name="retryIteration" value="0" />
+                  <property name="repeatIteration" value="0" />
+                </properties>
+              </test-case>
+            </test-suite>
+            <test-case id="1035" name="DefeatAndNoPostDefeatInput" fullname="LuckySeven.Tests.RulesTests.DefeatAndNoPostDefeatInput" methodname="DefeatAndNoPostDefeatInput" classname="LuckySeven.Tests.RulesTests" runstate="Runnable" seed="48791013" result="Passed" start-time="2026-11-07 06:25:58Z" end-time="2026-11-07 06:25:58Z" duration="0.000310" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-suite type="ParameterizedMethod" id="1030" name="Effects" fullname="LuckySeven.Tests.RulesTests.Effects" classname="LuckySeven.Tests.RulesTests" runstate="Runnable" testcasecount="3" result="Passed" start-time="2026-11-07 06:25:58Z" end-time="2026-11-07 06:25:58Z" duration="0.093330" total="3" passed="3" failed="0" inconclusive="0" skipped="0" asserts="0">
+              <properties />
+              <test-case id="1027" name="Effects(Strike,11,0,0)" fullname="LuckySeven.Tests.RulesTests.Effects(Strike,11,0,0)" methodname="Effects" classname="LuckySeven.Tests.RulesTests" runstate="Runnable" seed="805424140" result="Passed" start-time="2026-11-07 06:25:58Z" end-time="2026-11-07 06:25:58Z" duration="0.000331" asserts="0">
+                <properties>
+                  <property name="retryIteration" value="0" />
+                  <property name="repeatIteration" value="0" />
+                </properties>
+              </test-case>
+              <test-case id="1028" name="Effects(Ward,9,3,0)" fullname="LuckySeven.Tests.RulesTests.Effects(Ward,9,3,0)" methodname="Effects" classname="LuckySeven.Tests.RulesTests" runstate="Runnable" seed="876878153" result="Passed" start-time="2026-11-07 06:25:58Z" end-time="2026-11-07 06:25:58Z" duration="0.000064" asserts="0">
+                <properties>
+                  <property name="retryIteration" value="0" />
+                  <property name="repeatIteration" value="0" />
+                </properties>
+              </test-case>
+              <test-case id="1029" name="Effects(Echo,9,0,1)" fullname="LuckySeven.Tests.RulesTests.Effects(Echo,9,0,1)" methodname="Effects" classname="LuckySeven.Tests.RulesTests" runstate="Runnable" seed="2504933" result="Passed" start-time="2026-11-07 06:25:58Z" end-time="2026-11-07 06:25:58Z" duration="0.000057" asserts="0">
+                <properties>
+                  <property name="retryIteration" value="0" />
+                  <property name="repeatIteration" value="0" />
+                </properties>
+              </test-case>
+            </test-suite>
+            <test-case id="1026" name="ExchangeCancelPreservesHand" fullname="LuckySeven.Tests.RulesTests.ExchangeCancelPreservesHand" methodname="ExchangeCancelPreservesHand" classname="LuckySeven.Tests.RulesTests" runstate="Runnable" seed="1679922228" result="Passed" start-time="2026-11-07 06:25:58Z" end-time="2026-11-07 06:25:58Z" duration="0.000325" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1025" name="ExchangeReturnsAfterDrawing" fullname="LuckySeven.Tests.RulesTests.ExchangeReturnsAfterDrawing" methodname="ExchangeReturnsAfterDrawing" classname="LuckySeven.Tests.RulesTests" runstate="Runnable" seed="1002909505" result="Passed" start-time="2026-11-07 06:25:58Z" end-time="2026-11-07 06:25:58Z" duration="0.003764" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1020" name="OpeningAndCandidates" fullname="LuckySeven.Tests.RulesTests.OpeningAndCandidates" methodname="OpeningAndCandidates" classname="LuckySeven.Tests.RulesTests" runstate="Runnable" seed="1937626069" result="Passed" start-time="2026-11-07 06:25:58Z" end-time="2026-11-07 06:25:58Z" duration="0.000647" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1033" name="OverflowRequiresExactDiscard" fullname="LuckySeven.Tests.RulesTests.OverflowRequiresExactDiscard" methodname="OverflowRequiresExactDiscard" classname="LuckySeven.Tests.RulesTests" runstate="Runnable" seed="377749863" result="Passed" start-time="2026-11-07 06:25:58Z" end-time="2026-11-07 06:25:58Z" duration="0.000330" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1034" name="ResetClearsRun" fullname="LuckySeven.Tests.RulesTests.ResetClearsRun" methodname="ResetClearsRun" classname="LuckySeven.Tests.RulesTests" runstate="Runnable" seed="644854804" result="Passed" start-time="2026-11-07 06:25:58Z" end-time="2026-11-07 06:25:58Z" duration="0.000214" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1024" name="SecondaryTargetActuallyBreaks" fullname="LuckySeven.Tests.RulesTests.SecondaryTargetActuallyBreaks" methodname="SecondaryTargetActuallyBreaks" classname="LuckySeven.Tests.RulesTests" runstate="Runnable" seed="824876906" result="Passed" start-time="2026-11-07 06:25:58Z" end-time="2026-11-07 06:25:58Z" duration="0.000618" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1021" name="SupplyCannotRepeat" fullname="LuckySeven.Tests.RulesTests.SupplyCannotRepeat" methodname="SupplyCannotRepeat" classname="LuckySeven.Tests.RulesTests" runstate="Runnable" seed="1648970057" result="Passed" start-time="2026-11-07 06:25:58Z" end-time="2026-11-07 06:25:58Z" duration="0.000170" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+              <output><![CDATA[Saving results to: Docs/Validation/ResourceComboV1/EditMode.xml
+]]></output>
+            </test-case>
+          </test-suite>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

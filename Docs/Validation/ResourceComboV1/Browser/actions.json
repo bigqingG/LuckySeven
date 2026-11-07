@@ -1,0 +1,6812 @@
+[
+  {
+    "click": [
+      640,
+      612
+    ],
+    "before": {
+      "state": "MainMenu",
+      "locale": "zh-Hans",
+      "hp": 0,
+      "enemyHp": 0,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 0,
+      "lucky": 0,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 0,
+      "secondary": 0,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [],
+      "effects": [],
+      "candidates": [
+        0,
+        0,
+        0
+      ],
+      "selected": []
+    },
+    "after": {
+      "state": "MainMenu",
+      "locale": "zh-Hans",
+      "hp": 0,
+      "enemyHp": 0,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 0,
+      "lucky": 0,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 0,
+      "secondary": 0,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [],
+      "effects": [],
+      "candidates": [
+        0,
+        0,
+        0
+      ],
+      "selected": []
+    }
+  },
+  {
+    "click": [
+      970,
+      38
+    ],
+    "before": {
+      "state": "MainMenu",
+      "locale": "zh-Hans",
+      "hp": 0,
+      "enemyHp": 0,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 0,
+      "lucky": 0,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 0,
+      "secondary": 0,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [],
+      "effects": [],
+      "candidates": [
+        0,
+        0,
+        0
+      ],
+      "selected": []
+    },
+    "after": {
+      "state": "MainMenu",
+      "locale": "en",
+      "hp": 0,
+      "enemyHp": 0,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 0,
+      "lucky": 0,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 0,
+      "secondary": 0,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [],
+      "effects": [],
+      "candidates": [
+        0,
+        0,
+        0
+      ],
+      "selected": []
+    }
+  },
+  {
+    "click": [
+      970,
+      38
+    ],
+    "before": {
+      "state": "MainMenu",
+      "locale": "en",
+      "hp": 0,
+      "enemyHp": 0,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 0,
+      "lucky": 0,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 0,
+      "secondary": 0,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [],
+      "effects": [],
+      "candidates": [
+        0,
+        0,
+        0
+      ],
+      "selected": []
+    },
+    "after": {
+      "state": "MainMenu",
+      "locale": "zh-Hans",
+      "hp": 0,
+      "enemyHp": 0,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 0,
+      "lucky": 0,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 0,
+      "secondary": 0,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [],
+      "effects": [],
+      "candidates": [
+        0,
+        0,
+        0
+      ],
+      "selected": []
+    }
+  },
+  {
+    "click": [
+      640,
+      585
+    ],
+    "before": {
+      "state": "MainMenu",
+      "locale": "zh-Hans",
+      "hp": 0,
+      "enemyHp": 0,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 0,
+      "lucky": 0,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 0,
+      "secondary": 0,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [],
+      "effects": [],
+      "candidates": [
+        0,
+        0,
+        0
+      ],
+      "selected": []
+    },
+    "after": {
+      "state": "MainMenu",
+      "locale": "zh-Hans",
+      "hp": 0,
+      "enemyHp": 0,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 0,
+      "lucky": 0,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 0,
+      "secondary": 0,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [],
+      "effects": [],
+      "candidates": [
+        0,
+        0,
+        0
+      ],
+      "selected": []
+    }
+  },
+  {
+    "click": [
+      640,
+      540
+    ],
+    "before": {
+      "state": "MainMenu",
+      "locale": "zh-Hans",
+      "hp": 0,
+      "enemyHp": 0,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 0,
+      "lucky": 0,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 0,
+      "secondary": 0,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [],
+      "effects": [],
+      "candidates": [
+        0,
+        0,
+        0
+      ],
+      "selected": []
+    },
+    "after": {
+      "state": "ChooseLucky",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 18,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 1,
+      "lucky": 0,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 0,
+      "secondary": 0,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        2,
+        5,
+        9,
+        1,
+        3
+      ],
+      "effects": [
+        0,
+        0,
+        2,
+        0,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      515,
+      407
+    ],
+    "before": {
+      "state": "ChooseLucky",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 18,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 1,
+      "lucky": 0,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 0,
+      "secondary": 0,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        2,
+        5,
+        9,
+        1,
+        3
+      ],
+      "effects": [
+        0,
+        0,
+        2,
+        0,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "SupplyChoice",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 18,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 1,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 0,
+      "secondary": 0,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        2,
+        5,
+        9,
+        1,
+        3
+      ],
+      "effects": [
+        0,
+        0,
+        2,
+        0,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      118,
+      630
+    ],
+    "before": {
+      "state": "SupplyChoice",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 18,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 1,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 0,
+      "secondary": 0,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        2,
+        5,
+        9,
+        1,
+        3
+      ],
+      "effects": [
+        0,
+        0,
+        2,
+        0,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 18,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 1,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 0,
+      "secondary": 0,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        2,
+        5,
+        9,
+        1,
+        3,
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        0,
+        2,
+        0,
+        2,
+        2,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      118,
+      630
+    ],
+    "before": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 18,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 1,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 0,
+      "secondary": 0,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        2,
+        5,
+        9,
+        1,
+        3,
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        0,
+        2,
+        0,
+        2,
+        2,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 18,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 1,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 0,
+      "secondary": 0,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        2,
+        5,
+        9,
+        1,
+        3,
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        0,
+        2,
+        0,
+        2,
+        2,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      530.0,
+      548
+    ],
+    "before": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 18,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 1,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 0,
+      "secondary": 0,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        2,
+        5,
+        9,
+        1,
+        3,
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        0,
+        2,
+        0,
+        2,
+        2,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 18,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 1,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 0,
+      "secondary": 0,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": 6,
+      "values": [
+        2,
+        5,
+        9,
+        1,
+        3,
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        0,
+        2,
+        0,
+        2,
+        2,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      610.0,
+      395
+    ],
+    "before": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 18,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 1,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 0,
+      "secondary": 0,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": 6,
+      "values": [
+        2,
+        5,
+        9,
+        1,
+        3,
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        0,
+        2,
+        0,
+        2,
+        2,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 18,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 1,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 0,
+      "secondary": 0,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        2,
+        5,
+        9,
+        1,
+        3,
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        0,
+        2,
+        0,
+        2,
+        2,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      448.0,
+      608
+    ],
+    "before": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 18,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 1,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 0,
+      "secondary": 0,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        2,
+        5,
+        9,
+        1,
+        3,
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        0,
+        2,
+        0,
+        2,
+        2,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 18,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 1,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 0,
+      "secondary": 0,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": 4,
+      "values": [
+        2,
+        5,
+        9,
+        1,
+        3,
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        0,
+        2,
+        0,
+        2,
+        2,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      610.0,
+      395
+    ],
+    "before": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 18,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 1,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 0,
+      "secondary": 0,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": 4,
+      "values": [
+        2,
+        5,
+        9,
+        1,
+        3,
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        0,
+        2,
+        0,
+        2,
+        2,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 18,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 1,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 0,
+      "secondary": 0,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        2,
+        5,
+        9,
+        1,
+        3,
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        0,
+        2,
+        0,
+        2,
+        2,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "drag": [
+      25,
+      300
+    ],
+    "before": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 18,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 1,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 0,
+      "secondary": 0,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        2,
+        5,
+        9,
+        1,
+        3,
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        0,
+        2,
+        0,
+        2,
+        2,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 18,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 1,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 0,
+      "secondary": 0,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        2,
+        5,
+        9,
+        1,
+        3,
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        0,
+        2,
+        0,
+        2,
+        2,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "drag": [
+      620,
+      410
+    ],
+    "before": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 18,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 1,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 0,
+      "secondary": 0,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        2,
+        5,
+        9,
+        1,
+        3,
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        0,
+        2,
+        0,
+        2,
+        2,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 18,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 1,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 0,
+      "secondary": 0,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": 1,
+      "values": [
+        2,
+        5,
+        9,
+        1,
+        3,
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        0,
+        2,
+        0,
+        2,
+        2,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      970,
+      38
+    ],
+    "before": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 18,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 1,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 0,
+      "secondary": 0,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": 1,
+      "values": [
+        2,
+        5,
+        9,
+        1,
+        3,
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        0,
+        2,
+        0,
+        2,
+        2,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "PlayerInput",
+      "locale": "en",
+      "hp": 30,
+      "enemyHp": 18,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 1,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 0,
+      "secondary": 0,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": 1,
+      "values": [
+        2,
+        5,
+        9,
+        1,
+        3,
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        0,
+        2,
+        0,
+        2,
+        2,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      970,
+      38
+    ],
+    "before": {
+      "state": "PlayerInput",
+      "locale": "en",
+      "hp": 30,
+      "enemyHp": 18,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 1,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 0,
+      "secondary": 0,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": 1,
+      "values": [
+        2,
+        5,
+        9,
+        1,
+        3,
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        0,
+        2,
+        0,
+        2,
+        2,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 18,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 1,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 0,
+      "secondary": 0,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": 1,
+      "values": [
+        2,
+        5,
+        9,
+        1,
+        3,
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        0,
+        2,
+        0,
+        2,
+        2,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "drag": [
+      620,
+      620
+    ],
+    "before": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 18,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 1,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 0,
+      "secondary": 0,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": 1,
+      "values": [
+        2,
+        5,
+        9,
+        1,
+        3,
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        0,
+        2,
+        0,
+        2,
+        2,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 18,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 1,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 0,
+      "secondary": 0,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        2,
+        5,
+        9,
+        1,
+        3,
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        0,
+        2,
+        0,
+        2,
+        2,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      366.0,
+      608
+    ],
+    "before": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 18,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 1,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 0,
+      "secondary": 0,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        2,
+        5,
+        9,
+        1,
+        3,
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        0,
+        2,
+        0,
+        2,
+        2,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 18,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 1,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 0,
+      "secondary": 0,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": 1,
+      "values": [
+        2,
+        5,
+        9,
+        1,
+        3,
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        0,
+        2,
+        0,
+        2,
+        2,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      890,
+      508
+    ],
+    "before": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 18,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 1,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 0,
+      "secondary": 0,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": 1,
+      "values": [
+        2,
+        5,
+        9,
+        1,
+        3,
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        0,
+        2,
+        0,
+        2,
+        2,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "AttackChoice",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 18,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 1,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 1,
+      "secondary": 1,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        5,
+        9,
+        1,
+        3,
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        2,
+        0,
+        2,
+        2,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      489.0,
+      608
+    ],
+    "before": {
+      "state": "AttackChoice",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 18,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 1,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 1,
+      "secondary": 1,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        5,
+        9,
+        1,
+        3,
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        2,
+        0,
+        2,
+        2,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "AttackChoice",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 18,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 1,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 1,
+      "secondary": 1,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": 9,
+      "values": [
+        5,
+        9,
+        1,
+        3,
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        2,
+        0,
+        2,
+        2,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        false,
+        true,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      970,
+      38
+    ],
+    "before": {
+      "state": "AttackChoice",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 18,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 1,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 1,
+      "secondary": 1,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": 9,
+      "values": [
+        5,
+        9,
+        1,
+        3,
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        2,
+        0,
+        2,
+        2,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        false,
+        true,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "AttackChoice",
+      "locale": "en",
+      "hp": 30,
+      "enemyHp": 18,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 1,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 1,
+      "secondary": 1,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": 9,
+      "values": [
+        5,
+        9,
+        1,
+        3,
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        2,
+        0,
+        2,
+        2,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        false,
+        true,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      970,
+      38
+    ],
+    "before": {
+      "state": "AttackChoice",
+      "locale": "en",
+      "hp": 30,
+      "enemyHp": 18,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 1,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 1,
+      "secondary": 1,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": 9,
+      "values": [
+        5,
+        9,
+        1,
+        3,
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        2,
+        0,
+        2,
+        2,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        false,
+        true,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "AttackChoice",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 18,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 1,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 1,
+      "secondary": 1,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": 9,
+      "values": [
+        5,
+        9,
+        1,
+        3,
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        2,
+        0,
+        2,
+        2,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        false,
+        true,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      280,
+      508
+    ],
+    "before": {
+      "state": "AttackChoice",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 18,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 1,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 1,
+      "secondary": 1,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": 9,
+      "values": [
+        5,
+        9,
+        1,
+        3,
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        2,
+        0,
+        2,
+        2,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        false,
+        true,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "AttackChoice",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 18,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 1,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 1,
+      "secondary": 1,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        5,
+        9,
+        1,
+        3,
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        2,
+        0,
+        2,
+        2,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      489.0,
+      608
+    ],
+    "before": {
+      "state": "AttackChoice",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 18,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 1,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 1,
+      "secondary": 1,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        5,
+        9,
+        1,
+        3,
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        2,
+        0,
+        2,
+        2,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "AttackChoice",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 18,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 1,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 1,
+      "secondary": 1,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": 9,
+      "values": [
+        5,
+        9,
+        1,
+        3,
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        2,
+        0,
+        2,
+        2,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        false,
+        true,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      890,
+      508
+    ],
+    "before": {
+      "state": "AttackChoice",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 18,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 1,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 1,
+      "secondary": 1,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": 9,
+      "values": [
+        5,
+        9,
+        1,
+        3,
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        2,
+        0,
+        2,
+        2,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        false,
+        true,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "Resolving",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 9,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 1,
+      "lucky": 2,
+      "bonus": 1,
+      "attacks": 1,
+      "breaks": 1,
+      "secondary": 1,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        5,
+        1,
+        3,
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        0,
+        2,
+        2,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      118,
+      670
+    ],
+    "before": {
+      "state": "SupplyChoice",
+      "locale": "zh-Hans",
+      "hp": 28,
+      "enemyHp": 9,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 2,
+      "lucky": 2,
+      "bonus": 1,
+      "attacks": 1,
+      "breaks": 1,
+      "secondary": 1,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        5,
+        1,
+        3,
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        0,
+        2,
+        2,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "ExchangeSelection",
+      "locale": "zh-Hans",
+      "hp": 28,
+      "enemyHp": 9,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 2,
+      "lucky": 2,
+      "bonus": 1,
+      "attacks": 1,
+      "breaks": 1,
+      "secondary": 1,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        5,
+        1,
+        3,
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        0,
+        2,
+        2,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      448.0,
+      608
+    ],
+    "before": {
+      "state": "ExchangeSelection",
+      "locale": "zh-Hans",
+      "hp": 28,
+      "enemyHp": 9,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 2,
+      "lucky": 2,
+      "bonus": 1,
+      "attacks": 1,
+      "breaks": 1,
+      "secondary": 1,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        5,
+        1,
+        3,
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        0,
+        2,
+        2,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "ExchangeSelection",
+      "locale": "zh-Hans",
+      "hp": 28,
+      "enemyHp": 9,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 2,
+      "lucky": 2,
+      "bonus": 1,
+      "attacks": 1,
+      "breaks": 1,
+      "secondary": 1,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        5,
+        1,
+        3,
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        0,
+        2,
+        2,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        true,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      489.0,
+      608
+    ],
+    "before": {
+      "state": "ExchangeSelection",
+      "locale": "zh-Hans",
+      "hp": 28,
+      "enemyHp": 9,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 2,
+      "lucky": 2,
+      "bonus": 1,
+      "attacks": 1,
+      "breaks": 1,
+      "secondary": 1,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        5,
+        1,
+        3,
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        0,
+        2,
+        2,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        true,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "ExchangeSelection",
+      "locale": "zh-Hans",
+      "hp": 28,
+      "enemyHp": 9,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 2,
+      "lucky": 2,
+      "bonus": 1,
+      "attacks": 1,
+      "breaks": 1,
+      "secondary": 1,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        5,
+        1,
+        3,
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        0,
+        2,
+        2,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        true,
+        true,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      890,
+      508
+    ],
+    "before": {
+      "state": "ExchangeSelection",
+      "locale": "zh-Hans",
+      "hp": 28,
+      "enemyHp": 9,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 2,
+      "lucky": 2,
+      "bonus": 1,
+      "attacks": 1,
+      "breaks": 1,
+      "secondary": 1,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        5,
+        1,
+        3,
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        0,
+        2,
+        2,
+        2
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        true,
+        true,
+        false,
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 28,
+      "enemyHp": 9,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 2,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 1,
+      "breaks": 1,
+      "secondary": 1,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        3,
+        7,
+        8,
+        5,
+        9,
+        8,
+        6
+      ],
+      "effects": [
+        2,
+        2,
+        2,
+        2,
+        0,
+        0,
+        0
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      448.0,
+      608
+    ],
+    "before": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 28,
+      "enemyHp": 9,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 2,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 1,
+      "breaks": 1,
+      "secondary": 1,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        3,
+        7,
+        8,
+        5,
+        9,
+        8,
+        6
+      ],
+      "effects": [
+        2,
+        2,
+        2,
+        2,
+        0,
+        0,
+        0
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 28,
+      "enemyHp": 9,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 2,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 1,
+      "breaks": 1,
+      "secondary": 1,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": 4,
+      "values": [
+        3,
+        7,
+        8,
+        5,
+        9,
+        8,
+        6
+      ],
+      "effects": [
+        2,
+        2,
+        2,
+        2,
+        0,
+        0,
+        0
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      890,
+      508
+    ],
+    "before": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 28,
+      "enemyHp": 9,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 2,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 1,
+      "breaks": 1,
+      "secondary": 1,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": 4,
+      "values": [
+        3,
+        7,
+        8,
+        5,
+        9,
+        8,
+        6
+      ],
+      "effects": [
+        2,
+        2,
+        2,
+        2,
+        0,
+        0,
+        0
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "AttackChoice",
+      "locale": "zh-Hans",
+      "hp": 28,
+      "enemyHp": 9,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 2,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 1,
+      "breaks": 2,
+      "secondary": 1,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        3,
+        8,
+        5,
+        9,
+        8,
+        6
+      ],
+      "effects": [
+        2,
+        2,
+        2,
+        0,
+        0,
+        0
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      653.0,
+      608
+    ],
+    "before": {
+      "state": "AttackChoice",
+      "locale": "zh-Hans",
+      "hp": 28,
+      "enemyHp": 9,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 2,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 1,
+      "breaks": 2,
+      "secondary": 1,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        3,
+        8,
+        5,
+        9,
+        8,
+        6
+      ],
+      "effects": [
+        2,
+        2,
+        2,
+        0,
+        0,
+        0
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "AttackChoice",
+      "locale": "zh-Hans",
+      "hp": 28,
+      "enemyHp": 9,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 2,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 1,
+      "breaks": 2,
+      "secondary": 1,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": 11,
+      "values": [
+        3,
+        8,
+        5,
+        9,
+        8,
+        6
+      ],
+      "effects": [
+        2,
+        2,
+        2,
+        0,
+        0,
+        0
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      890,
+      508
+    ],
+    "before": {
+      "state": "AttackChoice",
+      "locale": "zh-Hans",
+      "hp": 28,
+      "enemyHp": 9,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 2,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 1,
+      "breaks": 2,
+      "secondary": 1,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": 11,
+      "values": [
+        3,
+        8,
+        5,
+        9,
+        8,
+        6
+      ],
+      "effects": [
+        2,
+        2,
+        2,
+        0,
+        0,
+        0
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "Resolving",
+      "locale": "zh-Hans",
+      "hp": 28,
+      "enemyHp": 0,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 2,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 2,
+      "breaks": 2,
+      "secondary": 1,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        3,
+        8,
+        5,
+        8,
+        6
+      ],
+      "effects": [
+        2,
+        2,
+        2,
+        0,
+        0
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      640,
+      520
+    ],
+    "before": {
+      "state": "BetweenBattles",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 0,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 2,
+      "lucky": 2,
+      "bonus": 0,
+      "attacks": 2,
+      "breaks": 2,
+      "secondary": 1,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        3,
+        8,
+        5,
+        8,
+        6
+      ],
+      "effects": [
+        2,
+        2,
+        2,
+        0,
+        0
+      ],
+      "candidates": [
+        2,
+        1,
+        8
+      ],
+      "selected": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "ChooseLucky",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 24,
+      "armor": 4,
+      "counter": 3,
+      "stage": 1,
+      "turn": 1,
+      "lucky": 0,
+      "bonus": 0,
+      "attacks": 2,
+      "breaks": 2,
+      "secondary": 1,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        3,
+        8,
+        5,
+        8,
+        6
+      ],
+      "effects": [
+        2,
+        2,
+        2,
+        0,
+        0
+      ],
+      "candidates": [
+        10,
+        8,
+        1
+      ],
+      "selected": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      515,
+      407
+    ],
+    "before": {
+      "state": "ChooseLucky",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 24,
+      "armor": 4,
+      "counter": 3,
+      "stage": 1,
+      "turn": 1,
+      "lucky": 0,
+      "bonus": 0,
+      "attacks": 2,
+      "breaks": 2,
+      "secondary": 1,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        3,
+        8,
+        5,
+        8,
+        6
+      ],
+      "effects": [
+        2,
+        2,
+        2,
+        0,
+        0
+      ],
+      "candidates": [
+        10,
+        8,
+        1
+      ],
+      "selected": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "SupplyChoice",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 24,
+      "armor": 4,
+      "counter": 3,
+      "stage": 1,
+      "turn": 1,
+      "lucky": 10,
+      "bonus": 0,
+      "attacks": 2,
+      "breaks": 2,
+      "secondary": 1,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        3,
+        8,
+        5,
+        8,
+        6
+      ],
+      "effects": [
+        2,
+        2,
+        2,
+        0,
+        0
+      ],
+      "candidates": [
+        10,
+        8,
+        1
+      ],
+      "selected": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      118,
+      630
+    ],
+    "before": {
+      "state": "SupplyChoice",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 24,
+      "armor": 4,
+      "counter": 3,
+      "stage": 1,
+      "turn": 1,
+      "lucky": 10,
+      "bonus": 0,
+      "attacks": 2,
+      "breaks": 2,
+      "secondary": 1,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        3,
+        8,
+        5,
+        8,
+        6
+      ],
+      "effects": [
+        2,
+        2,
+        2,
+        0,
+        0
+      ],
+      "candidates": [
+        10,
+        8,
+        1
+      ],
+      "selected": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 24,
+      "armor": 4,
+      "counter": 3,
+      "stage": 1,
+      "turn": 1,
+      "lucky": 10,
+      "bonus": 0,
+      "attacks": 2,
+      "breaks": 2,
+      "secondary": 1,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        3,
+        8,
+        5,
+        8,
+        6,
+        6,
+        2
+      ],
+      "effects": [
+        2,
+        2,
+        2,
+        0,
+        0,
+        1,
+        2
+      ],
+      "candidates": [
+        10,
+        8,
+        1
+      ],
+      "selected": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      366.0,
+      608
+    ],
+    "before": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 24,
+      "armor": 4,
+      "counter": 3,
+      "stage": 1,
+      "turn": 1,
+      "lucky": 10,
+      "bonus": 0,
+      "attacks": 2,
+      "breaks": 2,
+      "secondary": 1,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        3,
+        8,
+        5,
+        8,
+        6,
+        6,
+        2
+      ],
+      "effects": [
+        2,
+        2,
+        2,
+        0,
+        0,
+        1,
+        2
+      ],
+      "candidates": [
+        10,
+        8,
+        1
+      ],
+      "selected": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 24,
+      "armor": 4,
+      "counter": 3,
+      "stage": 1,
+      "turn": 1,
+      "lucky": 10,
+      "bonus": 0,
+      "attacks": 2,
+      "breaks": 2,
+      "secondary": 1,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": 1,
+      "values": [
+        3,
+        8,
+        5,
+        8,
+        6,
+        6,
+        2
+      ],
+      "effects": [
+        2,
+        2,
+        2,
+        0,
+        0,
+        1,
+        2
+      ],
+      "candidates": [
+        10,
+        8,
+        1
+      ],
+      "selected": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      489.0,
+      608
+    ],
+    "before": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 24,
+      "armor": 4,
+      "counter": 3,
+      "stage": 1,
+      "turn": 1,
+      "lucky": 10,
+      "bonus": 0,
+      "attacks": 2,
+      "breaks": 2,
+      "secondary": 1,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": 1,
+      "values": [
+        3,
+        8,
+        5,
+        8,
+        6,
+        6,
+        2
+      ],
+      "effects": [
+        2,
+        2,
+        2,
+        0,
+        0,
+        1,
+        2
+      ],
+      "candidates": [
+        10,
+        8,
+        1
+      ],
+      "selected": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 24,
+      "armor": 4,
+      "counter": 3,
+      "stage": 1,
+      "turn": 1,
+      "lucky": 10,
+      "bonus": 0,
+      "attacks": 2,
+      "breaks": 2,
+      "secondary": 1,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        3,
+        8,
+        5,
+        8,
+        6,
+        6,
+        2
+      ],
+      "effects": [
+        2,
+        2,
+        2,
+        0,
+        0,
+        1,
+        2
+      ],
+      "candidates": [
+        10,
+        8,
+        1
+      ],
+      "selected": [
+        true,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      776.0,
+      608
+    ],
+    "before": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 24,
+      "armor": 4,
+      "counter": 3,
+      "stage": 1,
+      "turn": 1,
+      "lucky": 10,
+      "bonus": 0,
+      "attacks": 2,
+      "breaks": 2,
+      "secondary": 1,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        3,
+        8,
+        5,
+        8,
+        6,
+        6,
+        2
+      ],
+      "effects": [
+        2,
+        2,
+        2,
+        0,
+        0,
+        1,
+        2
+      ],
+      "candidates": [
+        10,
+        8,
+        1
+      ],
+      "selected": [
+        true,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 24,
+      "armor": 4,
+      "counter": 3,
+      "stage": 1,
+      "turn": 1,
+      "lucky": 10,
+      "bonus": 0,
+      "attacks": 2,
+      "breaks": 2,
+      "secondary": 1,
+      "combo": 0,
+      "selectedCombo": 4,
+      "predicted": -1,
+      "values": [
+        3,
+        8,
+        5,
+        8,
+        6,
+        6,
+        2
+      ],
+      "effects": [
+        2,
+        2,
+        2,
+        0,
+        0,
+        1,
+        2
+      ],
+      "candidates": [
+        10,
+        8,
+        1
+      ],
+      "selected": [
+        true,
+        false,
+        true,
+        false,
+        false,
+        false,
+        true
+      ]
+    }
+  },
+  {
+    "click": [
+      890,
+      508
+    ],
+    "before": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 24,
+      "armor": 4,
+      "counter": 3,
+      "stage": 1,
+      "turn": 1,
+      "lucky": 10,
+      "bonus": 0,
+      "attacks": 2,
+      "breaks": 2,
+      "secondary": 1,
+      "combo": 0,
+      "selectedCombo": 4,
+      "predicted": -1,
+      "values": [
+        3,
+        8,
+        5,
+        8,
+        6,
+        6,
+        2
+      ],
+      "effects": [
+        2,
+        2,
+        2,
+        0,
+        0,
+        1,
+        2
+      ],
+      "candidates": [
+        10,
+        8,
+        1
+      ],
+      "selected": [
+        true,
+        false,
+        true,
+        false,
+        false,
+        false,
+        true
+      ]
+    },
+    "after": {
+      "state": "AttackChoice",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 24,
+      "armor": 4,
+      "counter": 3,
+      "stage": 1,
+      "turn": 1,
+      "lucky": 10,
+      "bonus": 0,
+      "attacks": 2,
+      "breaks": 3,
+      "secondary": 2,
+      "combo": 4,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        8,
+        8,
+        6,
+        6
+      ],
+      "effects": [
+        2,
+        0,
+        0,
+        1
+      ],
+      "candidates": [
+        10,
+        8,
+        1
+      ],
+      "selected": [
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      571.0,
+      608
+    ],
+    "before": {
+      "state": "AttackChoice",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 24,
+      "armor": 4,
+      "counter": 3,
+      "stage": 1,
+      "turn": 1,
+      "lucky": 10,
+      "bonus": 0,
+      "attacks": 2,
+      "breaks": 3,
+      "secondary": 2,
+      "combo": 4,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        8,
+        8,
+        6,
+        6
+      ],
+      "effects": [
+        2,
+        0,
+        0,
+        1
+      ],
+      "candidates": [
+        10,
+        8,
+        1
+      ],
+      "selected": [
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "AttackChoice",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 24,
+      "armor": 4,
+      "counter": 3,
+      "stage": 1,
+      "turn": 1,
+      "lucky": 10,
+      "bonus": 0,
+      "attacks": 2,
+      "breaks": 3,
+      "secondary": 2,
+      "combo": 4,
+      "selectedCombo": 0,
+      "predicted": 14,
+      "values": [
+        8,
+        8,
+        6,
+        6
+      ],
+      "effects": [
+        2,
+        0,
+        0,
+        1
+      ],
+      "candidates": [
+        10,
+        8,
+        1
+      ],
+      "selected": [
+        false,
+        true,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      890,
+      508
+    ],
+    "before": {
+      "state": "AttackChoice",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 24,
+      "armor": 4,
+      "counter": 3,
+      "stage": 1,
+      "turn": 1,
+      "lucky": 10,
+      "bonus": 0,
+      "attacks": 2,
+      "breaks": 3,
+      "secondary": 2,
+      "combo": 4,
+      "selectedCombo": 0,
+      "predicted": 14,
+      "values": [
+        8,
+        8,
+        6,
+        6
+      ],
+      "effects": [
+        2,
+        0,
+        0,
+        1
+      ],
+      "candidates": [
+        10,
+        8,
+        1
+      ],
+      "selected": [
+        false,
+        true,
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "Resolving",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 10,
+      "armor": 4,
+      "counter": 3,
+      "stage": 1,
+      "turn": 1,
+      "lucky": 10,
+      "bonus": 0,
+      "attacks": 3,
+      "breaks": 3,
+      "secondary": 2,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        8,
+        6,
+        6
+      ],
+      "effects": [
+        2,
+        0,
+        1
+      ],
+      "candidates": [
+        10,
+        8,
+        1
+      ],
+      "selected": [
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      118,
+      630
+    ],
+    "before": {
+      "state": "SupplyChoice",
+      "locale": "zh-Hans",
+      "hp": 27,
+      "enemyHp": 10,
+      "armor": 4,
+      "counter": 3,
+      "stage": 1,
+      "turn": 2,
+      "lucky": 10,
+      "bonus": 0,
+      "attacks": 3,
+      "breaks": 3,
+      "secondary": 2,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        8,
+        6,
+        6
+      ],
+      "effects": [
+        2,
+        0,
+        1
+      ],
+      "candidates": [
+        10,
+        8,
+        1
+      ],
+      "selected": [
+        false,
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 27,
+      "enemyHp": 10,
+      "armor": 4,
+      "counter": 3,
+      "stage": 1,
+      "turn": 2,
+      "lucky": 10,
+      "bonus": 0,
+      "attacks": 3,
+      "breaks": 3,
+      "secondary": 2,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        8,
+        6,
+        6,
+        4,
+        2
+      ],
+      "effects": [
+        2,
+        0,
+        1,
+        0,
+        1
+      ],
+      "candidates": [
+        10,
+        8,
+        1
+      ],
+      "selected": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      448.0,
+      608
+    ],
+    "before": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 27,
+      "enemyHp": 10,
+      "armor": 4,
+      "counter": 3,
+      "stage": 1,
+      "turn": 2,
+      "lucky": 10,
+      "bonus": 0,
+      "attacks": 3,
+      "breaks": 3,
+      "secondary": 2,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        8,
+        6,
+        6,
+        4,
+        2
+      ],
+      "effects": [
+        2,
+        0,
+        1,
+        0,
+        1
+      ],
+      "candidates": [
+        10,
+        8,
+        1
+      ],
+      "selected": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 27,
+      "enemyHp": 10,
+      "armor": 4,
+      "counter": 3,
+      "stage": 1,
+      "turn": 2,
+      "lucky": 10,
+      "bonus": 0,
+      "attacks": 3,
+      "breaks": 3,
+      "secondary": 2,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": 4,
+      "values": [
+        8,
+        6,
+        6,
+        4,
+        2
+      ],
+      "effects": [
+        2,
+        0,
+        1,
+        0,
+        1
+      ],
+      "candidates": [
+        10,
+        8,
+        1
+      ],
+      "selected": [
+        true,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      735.0,
+      608
+    ],
+    "before": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 27,
+      "enemyHp": 10,
+      "armor": 4,
+      "counter": 3,
+      "stage": 1,
+      "turn": 2,
+      "lucky": 10,
+      "bonus": 0,
+      "attacks": 3,
+      "breaks": 3,
+      "secondary": 2,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": 4,
+      "values": [
+        8,
+        6,
+        6,
+        4,
+        2
+      ],
+      "effects": [
+        2,
+        0,
+        1,
+        0,
+        1
+      ],
+      "candidates": [
+        10,
+        8,
+        1
+      ],
+      "selected": [
+        true,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 27,
+      "enemyHp": 10,
+      "armor": 4,
+      "counter": 3,
+      "stage": 1,
+      "turn": 2,
+      "lucky": 10,
+      "bonus": 0,
+      "attacks": 3,
+      "breaks": 3,
+      "secondary": 2,
+      "combo": 0,
+      "selectedCombo": 2,
+      "predicted": -1,
+      "values": [
+        8,
+        6,
+        6,
+        4,
+        2
+      ],
+      "effects": [
+        2,
+        0,
+        1,
+        0,
+        1
+      ],
+      "candidates": [
+        10,
+        8,
+        1
+      ],
+      "selected": [
+        true,
+        false,
+        false,
+        false,
+        true
+      ]
+    }
+  },
+  {
+    "click": [
+      890,
+      508
+    ],
+    "before": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 27,
+      "enemyHp": 10,
+      "armor": 4,
+      "counter": 3,
+      "stage": 1,
+      "turn": 2,
+      "lucky": 10,
+      "bonus": 0,
+      "attacks": 3,
+      "breaks": 3,
+      "secondary": 2,
+      "combo": 0,
+      "selectedCombo": 2,
+      "predicted": -1,
+      "values": [
+        8,
+        6,
+        6,
+        4,
+        2
+      ],
+      "effects": [
+        2,
+        0,
+        1,
+        0,
+        1
+      ],
+      "candidates": [
+        10,
+        8,
+        1
+      ],
+      "selected": [
+        true,
+        false,
+        false,
+        false,
+        true
+      ]
+    },
+    "after": {
+      "state": "AttackChoice",
+      "locale": "zh-Hans",
+      "hp": 27,
+      "enemyHp": 10,
+      "armor": 4,
+      "counter": 3,
+      "stage": 1,
+      "turn": 2,
+      "lucky": 10,
+      "bonus": 0,
+      "attacks": 3,
+      "breaks": 4,
+      "secondary": 3,
+      "combo": 2,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        6,
+        6,
+        4
+      ],
+      "effects": [
+        0,
+        1,
+        0
+      ],
+      "candidates": [
+        10,
+        8,
+        1
+      ],
+      "selected": [
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      530.0,
+      608
+    ],
+    "before": {
+      "state": "AttackChoice",
+      "locale": "zh-Hans",
+      "hp": 27,
+      "enemyHp": 10,
+      "armor": 4,
+      "counter": 3,
+      "stage": 1,
+      "turn": 2,
+      "lucky": 10,
+      "bonus": 0,
+      "attacks": 3,
+      "breaks": 4,
+      "secondary": 3,
+      "combo": 2,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        6,
+        6,
+        4
+      ],
+      "effects": [
+        0,
+        1,
+        0
+      ],
+      "candidates": [
+        10,
+        8,
+        1
+      ],
+      "selected": [
+        false,
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "AttackChoice",
+      "locale": "zh-Hans",
+      "hp": 27,
+      "enemyHp": 10,
+      "armor": 4,
+      "counter": 3,
+      "stage": 1,
+      "turn": 2,
+      "lucky": 10,
+      "bonus": 0,
+      "attacks": 3,
+      "breaks": 4,
+      "secondary": 3,
+      "combo": 2,
+      "selectedCombo": 0,
+      "predicted": 10,
+      "values": [
+        6,
+        6,
+        4
+      ],
+      "effects": [
+        0,
+        1,
+        0
+      ],
+      "candidates": [
+        10,
+        8,
+        1
+      ],
+      "selected": [
+        true,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      890,
+      508
+    ],
+    "before": {
+      "state": "AttackChoice",
+      "locale": "zh-Hans",
+      "hp": 27,
+      "enemyHp": 10,
+      "armor": 4,
+      "counter": 3,
+      "stage": 1,
+      "turn": 2,
+      "lucky": 10,
+      "bonus": 0,
+      "attacks": 3,
+      "breaks": 4,
+      "secondary": 3,
+      "combo": 2,
+      "selectedCombo": 0,
+      "predicted": 10,
+      "values": [
+        6,
+        6,
+        4
+      ],
+      "effects": [
+        0,
+        1,
+        0
+      ],
+      "candidates": [
+        10,
+        8,
+        1
+      ],
+      "selected": [
+        true,
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "Resolving",
+      "locale": "zh-Hans",
+      "hp": 27,
+      "enemyHp": 0,
+      "armor": 4,
+      "counter": 3,
+      "stage": 1,
+      "turn": 2,
+      "lucky": 10,
+      "bonus": 0,
+      "attacks": 4,
+      "breaks": 4,
+      "secondary": 3,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        6,
+        4
+      ],
+      "effects": [
+        1,
+        0
+      ],
+      "candidates": [
+        10,
+        8,
+        1
+      ],
+      "selected": [
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      640,
+      520
+    ],
+    "before": {
+      "state": "BetweenBattles",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 0,
+      "armor": 4,
+      "counter": 3,
+      "stage": 1,
+      "turn": 2,
+      "lucky": 10,
+      "bonus": 0,
+      "attacks": 4,
+      "breaks": 4,
+      "secondary": 3,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        6,
+        4
+      ],
+      "effects": [
+        1,
+        0
+      ],
+      "candidates": [
+        10,
+        8,
+        1
+      ],
+      "selected": [
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "ChooseLucky",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 30,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 1,
+      "lucky": 0,
+      "bonus": 0,
+      "attacks": 4,
+      "breaks": 4,
+      "secondary": 3,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        6,
+        4
+      ],
+      "effects": [
+        1,
+        0
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      515,
+      407
+    ],
+    "before": {
+      "state": "ChooseLucky",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 30,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 1,
+      "lucky": 0,
+      "bonus": 0,
+      "attacks": 4,
+      "breaks": 4,
+      "secondary": 3,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        6,
+        4
+      ],
+      "effects": [
+        1,
+        0
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "SupplyChoice",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 30,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 1,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 4,
+      "breaks": 4,
+      "secondary": 3,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        6,
+        4
+      ],
+      "effects": [
+        1,
+        0
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      118,
+      630
+    ],
+    "before": {
+      "state": "SupplyChoice",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 30,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 1,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 4,
+      "breaks": 4,
+      "secondary": 3,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        6,
+        4
+      ],
+      "effects": [
+        1,
+        0
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 30,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 1,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 4,
+      "breaks": 4,
+      "secondary": 3,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        6,
+        4,
+        5,
+        1
+      ],
+      "effects": [
+        1,
+        0,
+        1,
+        2
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      489.0,
+      608
+    ],
+    "before": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 30,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 1,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 4,
+      "breaks": 4,
+      "secondary": 3,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        6,
+        4,
+        5,
+        1
+      ],
+      "effects": [
+        1,
+        0,
+        1,
+        2
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 30,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 1,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 4,
+      "breaks": 4,
+      "secondary": 3,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": 1,
+      "values": [
+        6,
+        4,
+        5,
+        1
+      ],
+      "effects": [
+        1,
+        0,
+        1,
+        2
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        true,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      694.0,
+      608
+    ],
+    "before": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 30,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 1,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 4,
+      "breaks": 4,
+      "secondary": 3,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": 1,
+      "values": [
+        6,
+        4,
+        5,
+        1
+      ],
+      "effects": [
+        1,
+        0,
+        1,
+        2
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        true,
+        false,
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 30,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 1,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 4,
+      "breaks": 4,
+      "secondary": 3,
+      "combo": 0,
+      "selectedCombo": 2,
+      "predicted": -1,
+      "values": [
+        6,
+        4,
+        5,
+        1
+      ],
+      "effects": [
+        1,
+        0,
+        1,
+        2
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        true,
+        false,
+        false,
+        true
+      ]
+    }
+  },
+  {
+    "click": [
+      890,
+      508
+    ],
+    "before": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 30,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 1,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 4,
+      "breaks": 4,
+      "secondary": 3,
+      "combo": 0,
+      "selectedCombo": 2,
+      "predicted": -1,
+      "values": [
+        6,
+        4,
+        5,
+        1
+      ],
+      "effects": [
+        1,
+        0,
+        1,
+        2
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        true,
+        false,
+        false,
+        true
+      ]
+    },
+    "after": {
+      "state": "AttackChoice",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 30,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 1,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 4,
+      "breaks": 5,
+      "secondary": 3,
+      "combo": 2,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        4,
+        5
+      ],
+      "effects": [
+        0,
+        1
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      571.0,
+      608
+    ],
+    "before": {
+      "state": "AttackChoice",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 30,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 1,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 4,
+      "breaks": 5,
+      "secondary": 3,
+      "combo": 2,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        4,
+        5
+      ],
+      "effects": [
+        0,
+        1
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "AttackChoice",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 30,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 1,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 4,
+      "breaks": 5,
+      "secondary": 3,
+      "combo": 2,
+      "selectedCombo": 0,
+      "predicted": 8,
+      "values": [
+        4,
+        5
+      ],
+      "effects": [
+        0,
+        1
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        true,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      890,
+      508
+    ],
+    "before": {
+      "state": "AttackChoice",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 30,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 1,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 4,
+      "breaks": 5,
+      "secondary": 3,
+      "combo": 2,
+      "selectedCombo": 0,
+      "predicted": 8,
+      "values": [
+        4,
+        5
+      ],
+      "effects": [
+        0,
+        1
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        true,
+        false
+      ]
+    },
+    "after": {
+      "state": "Resolving",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 22,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 1,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 5,
+      "breaks": 5,
+      "secondary": 3,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        5
+      ],
+      "effects": [
+        1
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      118,
+      630
+    ],
+    "before": {
+      "state": "SupplyChoice",
+      "locale": "zh-Hans",
+      "hp": 26,
+      "enemyHp": 22,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 2,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 5,
+      "breaks": 5,
+      "secondary": 3,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        5
+      ],
+      "effects": [
+        1
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        false
+      ]
+    },
+    "after": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 26,
+      "enemyHp": 22,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 2,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 5,
+      "breaks": 5,
+      "secondary": 3,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        5,
+        6,
+        3
+      ],
+      "effects": [
+        1,
+        2,
+        0
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      612.0,
+      608
+    ],
+    "before": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 26,
+      "enemyHp": 22,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 2,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 5,
+      "breaks": 5,
+      "secondary": 3,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        5,
+        6,
+        3
+      ],
+      "effects": [
+        1,
+        2,
+        0
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        false,
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 26,
+      "enemyHp": 22,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 2,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 5,
+      "breaks": 5,
+      "secondary": 3,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": 1,
+      "values": [
+        5,
+        6,
+        3
+      ],
+      "effects": [
+        1,
+        2,
+        0
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        false,
+        true,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      653.0,
+      608
+    ],
+    "before": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 26,
+      "enemyHp": 22,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 2,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 5,
+      "breaks": 5,
+      "secondary": 3,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": 1,
+      "values": [
+        5,
+        6,
+        3
+      ],
+      "effects": [
+        1,
+        2,
+        0
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        false,
+        true,
+        false
+      ]
+    },
+    "after": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 26,
+      "enemyHp": 22,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 2,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 5,
+      "breaks": 5,
+      "secondary": 3,
+      "combo": 0,
+      "selectedCombo": 2,
+      "predicted": -1,
+      "values": [
+        5,
+        6,
+        3
+      ],
+      "effects": [
+        1,
+        2,
+        0
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        false,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "click": [
+      890,
+      508
+    ],
+    "before": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 26,
+      "enemyHp": 22,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 2,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 5,
+      "breaks": 5,
+      "secondary": 3,
+      "combo": 0,
+      "selectedCombo": 2,
+      "predicted": -1,
+      "values": [
+        5,
+        6,
+        3
+      ],
+      "effects": [
+        1,
+        2,
+        0
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        false,
+        true,
+        true
+      ]
+    },
+    "after": {
+      "state": "AttackChoice",
+      "locale": "zh-Hans",
+      "hp": 26,
+      "enemyHp": 22,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 2,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 5,
+      "breaks": 6,
+      "secondary": 4,
+      "combo": 2,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        5
+      ],
+      "effects": [
+        1
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      612.0,
+      608
+    ],
+    "before": {
+      "state": "AttackChoice",
+      "locale": "zh-Hans",
+      "hp": 26,
+      "enemyHp": 22,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 2,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 5,
+      "breaks": 6,
+      "secondary": 4,
+      "combo": 2,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        5
+      ],
+      "effects": [
+        1
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        false
+      ]
+    },
+    "after": {
+      "state": "AttackChoice",
+      "locale": "zh-Hans",
+      "hp": 26,
+      "enemyHp": 22,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 2,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 5,
+      "breaks": 6,
+      "secondary": 4,
+      "combo": 2,
+      "selectedCombo": 0,
+      "predicted": 7,
+      "values": [
+        5
+      ],
+      "effects": [
+        1
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        true
+      ]
+    }
+  },
+  {
+    "click": [
+      890,
+      508
+    ],
+    "before": {
+      "state": "AttackChoice",
+      "locale": "zh-Hans",
+      "hp": 26,
+      "enemyHp": 22,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 2,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 5,
+      "breaks": 6,
+      "secondary": 4,
+      "combo": 2,
+      "selectedCombo": 0,
+      "predicted": 7,
+      "values": [
+        5
+      ],
+      "effects": [
+        1
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        true
+      ]
+    },
+    "after": {
+      "state": "Resolving",
+      "locale": "zh-Hans",
+      "hp": 26,
+      "enemyHp": 15,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 2,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 6,
+      "breaks": 6,
+      "secondary": 4,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [],
+      "effects": [],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": []
+    }
+  },
+  {
+    "click": [
+      118,
+      630
+    ],
+    "before": {
+      "state": "SupplyChoice",
+      "locale": "zh-Hans",
+      "hp": 25,
+      "enemyHp": 15,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 3,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 6,
+      "breaks": 6,
+      "secondary": 4,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [],
+      "effects": [],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": []
+    },
+    "after": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 25,
+      "enemyHp": 15,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 3,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 6,
+      "breaks": 6,
+      "secondary": 4,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        1
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      571.0,
+      608
+    ],
+    "before": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 25,
+      "enemyHp": 15,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 3,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 6,
+      "breaks": 6,
+      "secondary": 4,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        1
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 25,
+      "enemyHp": 15,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 3,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 6,
+      "breaks": 6,
+      "secondary": 4,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": 4,
+      "values": [
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        1
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        true,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      890,
+      508
+    ],
+    "before": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 25,
+      "enemyHp": 15,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 3,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 6,
+      "breaks": 6,
+      "secondary": 4,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": 4,
+      "values": [
+        7,
+        8
+      ],
+      "effects": [
+        0,
+        1
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        true,
+        false
+      ]
+    },
+    "after": {
+      "state": "AttackChoice",
+      "locale": "zh-Hans",
+      "hp": 25,
+      "enemyHp": 15,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 3,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 6,
+      "breaks": 7,
+      "secondary": 4,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        8
+      ],
+      "effects": [
+        1
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      612.0,
+      608
+    ],
+    "before": {
+      "state": "AttackChoice",
+      "locale": "zh-Hans",
+      "hp": 25,
+      "enemyHp": 15,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 3,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 6,
+      "breaks": 7,
+      "secondary": 4,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        8
+      ],
+      "effects": [
+        1
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        false
+      ]
+    },
+    "after": {
+      "state": "AttackChoice",
+      "locale": "zh-Hans",
+      "hp": 25,
+      "enemyHp": 15,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 3,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 6,
+      "breaks": 7,
+      "secondary": 4,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": 8,
+      "values": [
+        8
+      ],
+      "effects": [
+        1
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        true
+      ]
+    }
+  },
+  {
+    "click": [
+      890,
+      508
+    ],
+    "before": {
+      "state": "AttackChoice",
+      "locale": "zh-Hans",
+      "hp": 25,
+      "enemyHp": 15,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 3,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 6,
+      "breaks": 7,
+      "secondary": 4,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": 8,
+      "values": [
+        8
+      ],
+      "effects": [
+        1
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        true
+      ]
+    },
+    "after": {
+      "state": "Resolving",
+      "locale": "zh-Hans",
+      "hp": 25,
+      "enemyHp": 7,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 3,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 7,
+      "breaks": 7,
+      "secondary": 4,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [],
+      "effects": [],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": []
+    }
+  },
+  {
+    "click": [
+      118,
+      630
+    ],
+    "before": {
+      "state": "SupplyChoice",
+      "locale": "zh-Hans",
+      "hp": 24,
+      "enemyHp": 7,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 4,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 7,
+      "breaks": 7,
+      "secondary": 4,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [],
+      "effects": [],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": []
+    },
+    "after": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 24,
+      "enemyHp": 7,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 4,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 7,
+      "breaks": 7,
+      "secondary": 4,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        4,
+        7
+      ],
+      "effects": [
+        2,
+        1
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      653.0,
+      608
+    ],
+    "before": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 24,
+      "enemyHp": 7,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 4,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 7,
+      "breaks": 7,
+      "secondary": 4,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        4,
+        7
+      ],
+      "effects": [
+        2,
+        1
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 24,
+      "enemyHp": 7,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 4,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 7,
+      "breaks": 7,
+      "secondary": 4,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": 2,
+      "values": [
+        4,
+        7
+      ],
+      "effects": [
+        2,
+        1
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        false,
+        true
+      ]
+    }
+  },
+  {
+    "click": [
+      890,
+      508
+    ],
+    "before": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 24,
+      "enemyHp": 7,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 4,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 7,
+      "breaks": 7,
+      "secondary": 4,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": 2,
+      "values": [
+        4,
+        7
+      ],
+      "effects": [
+        2,
+        1
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        false,
+        true
+      ]
+    },
+    "after": {
+      "state": "AttackChoice",
+      "locale": "zh-Hans",
+      "hp": 24,
+      "enemyHp": 7,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 4,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 7,
+      "breaks": 8,
+      "secondary": 4,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        4
+      ],
+      "effects": [
+        2
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      612.0,
+      608
+    ],
+    "before": {
+      "state": "AttackChoice",
+      "locale": "zh-Hans",
+      "hp": 24,
+      "enemyHp": 7,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 4,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 7,
+      "breaks": 8,
+      "secondary": 4,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        4
+      ],
+      "effects": [
+        2
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        false
+      ]
+    },
+    "after": {
+      "state": "AttackChoice",
+      "locale": "zh-Hans",
+      "hp": 24,
+      "enemyHp": 7,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 4,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 7,
+      "breaks": 8,
+      "secondary": 4,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": 4,
+      "values": [
+        4
+      ],
+      "effects": [
+        2
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        true
+      ]
+    }
+  },
+  {
+    "click": [
+      890,
+      508
+    ],
+    "before": {
+      "state": "AttackChoice",
+      "locale": "zh-Hans",
+      "hp": 24,
+      "enemyHp": 7,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 4,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 7,
+      "breaks": 8,
+      "secondary": 4,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": 4,
+      "values": [
+        4
+      ],
+      "effects": [
+        2
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        true
+      ]
+    },
+    "after": {
+      "state": "Resolving",
+      "locale": "zh-Hans",
+      "hp": 24,
+      "enemyHp": 3,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 4,
+      "lucky": 9,
+      "bonus": 1,
+      "attacks": 8,
+      "breaks": 8,
+      "secondary": 4,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [],
+      "effects": [],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": []
+    }
+  },
+  {
+    "click": [
+      118,
+      630
+    ],
+    "before": {
+      "state": "SupplyChoice",
+      "locale": "zh-Hans",
+      "hp": 20,
+      "enemyHp": 3,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 5,
+      "lucky": 9,
+      "bonus": 1,
+      "attacks": 8,
+      "breaks": 8,
+      "secondary": 4,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [],
+      "effects": [],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": []
+    },
+    "after": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 20,
+      "enemyHp": 3,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 5,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 8,
+      "breaks": 8,
+      "secondary": 4,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        9,
+        4,
+        1
+      ],
+      "effects": [
+        1,
+        1,
+        1
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      530.0,
+      608
+    ],
+    "before": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 20,
+      "enemyHp": 3,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 5,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 8,
+      "breaks": 8,
+      "secondary": 4,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        9,
+        4,
+        1
+      ],
+      "effects": [
+        1,
+        1,
+        1
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        false,
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 20,
+      "enemyHp": 3,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 5,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 8,
+      "breaks": 8,
+      "secondary": 4,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": 4,
+      "values": [
+        9,
+        4,
+        1
+      ],
+      "effects": [
+        1,
+        1,
+        1
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        true,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      890,
+      508
+    ],
+    "before": {
+      "state": "PlayerInput",
+      "locale": "zh-Hans",
+      "hp": 20,
+      "enemyHp": 3,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 5,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 8,
+      "breaks": 8,
+      "secondary": 4,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": 4,
+      "values": [
+        9,
+        4,
+        1
+      ],
+      "effects": [
+        1,
+        1,
+        1
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        true,
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "AttackChoice",
+      "locale": "zh-Hans",
+      "hp": 20,
+      "enemyHp": 3,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 5,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 8,
+      "breaks": 9,
+      "secondary": 5,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        4,
+        1
+      ],
+      "effects": [
+        1,
+        1
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      571.0,
+      608
+    ],
+    "before": {
+      "state": "AttackChoice",
+      "locale": "zh-Hans",
+      "hp": 20,
+      "enemyHp": 3,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 5,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 8,
+      "breaks": 9,
+      "secondary": 5,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        4,
+        1
+      ],
+      "effects": [
+        1,
+        1
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        false,
+        false
+      ]
+    },
+    "after": {
+      "state": "AttackChoice",
+      "locale": "zh-Hans",
+      "hp": 20,
+      "enemyHp": 3,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 5,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 8,
+      "breaks": 9,
+      "secondary": 5,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": 4,
+      "values": [
+        4,
+        1
+      ],
+      "effects": [
+        1,
+        1
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        true,
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      890,
+      508
+    ],
+    "before": {
+      "state": "AttackChoice",
+      "locale": "zh-Hans",
+      "hp": 20,
+      "enemyHp": 3,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 5,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 8,
+      "breaks": 9,
+      "secondary": 5,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": 4,
+      "values": [
+        4,
+        1
+      ],
+      "effects": [
+        1,
+        1
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        true,
+        false
+      ]
+    },
+    "after": {
+      "state": "Resolving",
+      "locale": "zh-Hans",
+      "hp": 20,
+      "enemyHp": 0,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 5,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 9,
+      "breaks": 9,
+      "secondary": 5,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        1
+      ],
+      "effects": [
+        1
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        false
+      ]
+    }
+  },
+  {
+    "click": [
+      640,
+      520
+    ],
+    "before": {
+      "state": "Victory",
+      "locale": "zh-Hans",
+      "hp": 20,
+      "enemyHp": 0,
+      "armor": 5,
+      "counter": 4,
+      "stage": 2,
+      "turn": 5,
+      "lucky": 9,
+      "bonus": 0,
+      "attacks": 9,
+      "breaks": 9,
+      "secondary": 5,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        1
+      ],
+      "effects": [
+        1
+      ],
+      "candidates": [
+        9,
+        4,
+        8
+      ],
+      "selected": [
+        false
+      ]
+    },
+    "after": {
+      "state": "ChooseLucky",
+      "locale": "zh-Hans",
+      "hp": 30,
+      "enemyHp": 18,
+      "armor": 3,
+      "counter": 2,
+      "stage": 0,
+      "turn": 1,
+      "lucky": 0,
+      "bonus": 0,
+      "attacks": 0,
+      "breaks": 0,
+      "secondary": 0,
+      "combo": 0,
+      "selectedCombo": 0,
+      "predicted": -1,
+      "values": [
+        2,
+        5,
+        9,
+        1,
+        3
+      ],
+      "effects": [
+        2,
+        1,
+        0,
+        1,
+        0
+      ],
+      "candidates": [
+        4,
+        1,
+        8
+      ],
+      "selected": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  }
+]

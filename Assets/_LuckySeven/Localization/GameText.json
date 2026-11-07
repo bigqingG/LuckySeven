@@ -1,0 +1,379 @@
+{
+  "entries": [
+    {
+      "key": "pixel.player",
+      "zh": "生命 {0}/{1}\n格挡 {2}",
+      "en": "HP {0}/{1}\nBLOCK {2}"
+    },
+    {
+      "key": "pixel.enemy",
+      "zh": "生命 {0}/{1}\n{2} · 反击 {3}",
+      "en": "HP {0}/{1}\n{2} / COUNTER {3}"
+    },
+    {
+      "key": "pixel.piles",
+      "zh": "手牌 {0}/{1}\n牌库 {2} · 弃牌 {3}\n下次加抽 {4}",
+      "en": "HAND {0}/{1}\nDECK {2} / USED {3}\nNEXT DRAW +{4}"
+    },
+    {
+      "key": "pixel.legend",
+      "zh": "攻击附效",
+      "en": "ATTACK ABILITIES"
+    },
+    {
+      "key": "pixel.attackonly",
+      "zh": "附效仅在攻击时触发",
+      "en": "TRIGGER ONLY ON ATTACK"
+    },
+    {
+      "key": "pixel.exchange",
+      "zh": "换2张 · 抽{0}张",
+      "en": "RETURN 2 / DRAW {0}"
+    },
+    {
+      "key": "brand",
+      "zh": "幸运七",
+      "en": "LUCKY SEVEN"
+    },
+    {
+      "key": "footer",
+      "zh": "幸运七 · 卡牌原型    /    凑数 · 破防 · 出击    /    卡牌附效仅在攻击时触发",
+      "en": "LUCKY SEVEN / CARD PROTOTYPE    •    ADD. BREAK. STRIKE.    •    ABILITIES TRIGGER ONLY ON ATTACK"
+    },
+    {
+      "key": "menu.index",
+      "zh": "打好手中的牌，改变你的运气",
+      "en": "BUILD YOUR HAND. CHANGE YOUR ODDS."
+    },
+    {
+      "key": "menu.title",
+      "zh": "幸运七",
+      "en": "LUCKY SEVEN"
+    },
+    {
+      "key": "menu.tagline",
+      "zh": "两个幸运数字，一次绝佳出击",
+      "en": "Two lucky numbers. One perfect opening."
+    },
+    {
+      "key": "play",
+      "zh": "开始游戏",
+      "en": "DEAL ME IN"
+    },
+    {
+      "key": "help",
+      "zh": "玩法说明",
+      "en": "HOW TO PLAY"
+    },
+    {
+      "key": "close",
+      "zh": "知道了",
+      "en": "GOT IT"
+    },
+    {
+      "key": "player.name",
+      "zh": "命运掌牌人",
+      "en": "THE CALIBRATOR"
+    },
+    {
+      "key": "player.plan",
+      "zh": "留下一张牌，打出制胜一击",
+      "en": "SAVE A CARD FOR THE FINISHING BLOW"
+    },
+    {
+      "key": "target.caption",
+      "zh": "幸运数字",
+      "en": "LUCKY TARGETS"
+    },
+    {
+      "key": "target.rule",
+      "zh": "牌面数值相加，凑成任一目标",
+      "en": "ADD CARD VALUES TO EITHER TARGET"
+    },
+    {
+      "key": "clear",
+      "zh": "收回 / 返回",
+      "en": "CLEAR / BACK"
+    },
+    {
+      "key": "attack.normal",
+      "zh": "普通攻击",
+      "en": "NORMAL ATTACK"
+    },
+    {
+      "key": "attack.confirm",
+      "zh": "出牌攻击",
+      "en": "ATTACK"
+    },
+    {
+      "key": "break",
+      "zh": "确认破防",
+      "en": "BREAK ARMOR"
+    },
+    {
+      "key": "exchange.confirm",
+      "zh": "放回并抽牌",
+      "en": "RETURN & DRAW"
+    },
+    {
+      "key": "discard.confirm",
+      "zh": "弃掉所选牌",
+      "en": "DISCARD SELECTED"
+    },
+    {
+      "key": "next",
+      "zh": "下一场战斗",
+      "en": "NEXT ENCOUNTER"
+    },
+    {
+      "key": "replay",
+      "zh": "重新开局",
+      "en": "DEAL AGAIN"
+    },
+    {
+      "key": "sound.on",
+      "zh": "音效：开",
+      "en": "SOUND ON"
+    },
+    {
+      "key": "sound.off",
+      "zh": "音效：关",
+      "en": "SOUND OFF"
+    },
+    {
+      "key": "language",
+      "zh": "语言：中文",
+      "en": "Language: English"
+    },
+    {
+      "key": "stage",
+      "zh": "第 {0} / {1} 场    ·    第 {2} 回合",
+      "en": "ENCOUNTER {0} / {1}    /    TURN {2}"
+    },
+    {
+      "key": "player.status",
+      "zh": "生命 {0}/{1}    ·    格挡 {2}",
+      "en": "VITALITY {0}/{1}    /    BLOCK {2}"
+    },
+    {
+      "key": "armor",
+      "zh": "护甲 {0}",
+      "en": "ARMOR {0}"
+    },
+    {
+      "key": "armor.broken",
+      "zh": "已破防",
+      "en": "ARMOR BROKEN"
+    },
+    {
+      "key": "enemy.status",
+      "zh": "生命 {0}/{1}    ·    {2}\n出牌后反击 {3} 点",
+      "en": "{0}/{1} HP   /   {2}\nCOUNTER {3} AFTER YOUR ATTACK"
+    },
+    {
+      "key": "piles",
+      "zh": "手牌 {0}/{1}    牌库 {2}    弃牌 {3}    下次加抽 {4}",
+      "en": "HAND {0}/{1}    DRAW {2}    DISCARD {3}    NEXT DRAW +{4}"
+    },
+    {
+      "key": "sum.empty",
+      "zh": "请选择要出的牌",
+      "en": "SELECT YOUR CARDS"
+    },
+    {
+      "key": "hint.choose",
+      "zh": "选择本场的第二幸运数字；7 始终有效。",
+      "en": "CHOOSE YOUR SECOND LUCKY NUMBER. It stays for this encounter."
+    },
+    {
+      "key": "hint.supply",
+      "zh": "回合补牌：直接抽 2 张，或放回 2 张再抽 3 张。",
+      "en": "SUPPLY: draw 2, or return 2 to the deck bottom and draw 3."
+    },
+    {
+      "key": "hint.exchange",
+      "zh": "放回 {0}/2 张：选两张牌，本次不会立即抽回。",
+      "en": "RETURN {0}/2: choose two cards. Returned cards cannot be drawn immediately."
+    },
+    {
+      "key": "hint.trim",
+      "zh": "手牌已满：请弃掉 {0} 张，当前已选 {1} 张。",
+      "en": "HAND LIMIT: discard {0} cards to continue. Selected {1}."
+    },
+    {
+      "key": "hint.play",
+      "zh": "点击或拖牌到中央，凑成幸运数字；记得留一张牌攻击。",
+      "en": "Click / drag cards to the table. Make a lucky sum; keep one card to attack."
+    },
+    {
+      "key": "hint.attack",
+      "zh": "敌人已破防！放入一张攻击牌，再点击「出牌攻击」。",
+      "en": "ARMOR BROKEN: stage ONE card, then confirm ATTACK."
+    },
+    {
+      "key": "hint.resolve",
+      "zh": "正在结算攻击……",
+      "en": "Resolving attack..."
+    },
+    {
+      "key": "draw",
+      "zh": "抽 {0} 张",
+      "en": "DRAW {0}"
+    },
+    {
+      "key": "exchange",
+      "zh": "放回 2 张 · 抽 {0} 张",
+      "en": "RETURN 2 / DRAW {0}"
+    },
+    {
+      "key": "table.empty",
+      "zh": "将手牌点击或拖到这里\n点击中央的牌，可收回手牌",
+      "en": "CLICK OR DRAG CARDS HERE\nClick a staged card to return it to your hand."
+    },
+    {
+      "key": "table.supply",
+      "zh": "请先选择下方的补牌方式",
+      "en": "CHOOSE YOUR SUPPLY BELOW"
+    },
+    {
+      "key": "effect.strike",
+      "zh": "强攻",
+      "en": "STRIKE"
+    },
+    {
+      "key": "effect.ward",
+      "zh": "守护",
+      "en": "WARD"
+    },
+    {
+      "key": "effect.echo",
+      "zh": "回响",
+      "en": "ECHO"
+    },
+    {
+      "key": "ability.strike",
+      "zh": "伤害 +2",
+      "en": "ATK +2"
+    },
+    {
+      "key": "ability.ward",
+      "zh": "格挡 +3",
+      "en": "BLOCK +3"
+    },
+    {
+      "key": "ability.echo",
+      "zh": "加抽 +1",
+      "en": "NEXT +1"
+    },
+    {
+      "key": "enemy.0",
+      "zh": "残缺之骰",
+      "en": "THE BROKEN DIE"
+    },
+    {
+      "key": "enemy.1",
+      "zh": "偏差之影",
+      "en": "THE DEVIATION"
+    },
+    {
+      "key": "enemy.2",
+      "zh": "失控之七",
+      "en": "ROGUE SEVEN"
+    },
+    {
+      "key": "result.between",
+      "zh": "命运已改写",
+      "en": "FATE RECALIBRATED"
+    },
+    {
+      "key": "result.win",
+      "zh": "幸运与你同在",
+      "en": "LUCK IS ON YOUR SIDE"
+    },
+    {
+      "key": "result.lose",
+      "zh": "运气用尽了",
+      "en": "OUT OF LUCK"
+    },
+    {
+      "key": "result.between.body",
+      "zh": "击败了「{0}」！\n回复 {1} 点生命，未使用的手牌继续保留。\n下一场可以重新选择幸运数字。",
+      "en": "{0} defeated.\nRecovered {1} HP. Unspent cards stay in your hand.\nChoose a new lucky number next encounter."
+    },
+    {
+      "key": "result.win.desc",
+      "zh": "三名敌人全部被击败！",
+      "en": "All three anomalies defeated."
+    },
+    {
+      "key": "result.lose.desc",
+      "zh": "试试留下守护牌，抵挡敌人的反击。",
+      "en": "Try saving Ward cards to absorb counters."
+    },
+    {
+      "key": "result.stats",
+      "zh": "{0}\n\n攻击 {1} 次  ·  破防 {2} 次  ·  第二幸运数 {3} 次\n局号 {4}",
+      "en": "{0}\n\n{1} ATTACKS  /  {2} BREAKS  /  {3} SECOND LUCK\nSEED {4}"
+    },
+    {
+      "key": "fx.break",
+      "zh": "幸运命中！护甲已击破，请选择攻击牌",
+      "en": "LUCKY! ARMOR BROKEN / CHOOSE ONE ATTACK CARD"
+    },
+    {
+      "key": "fx.attack.break",
+      "zh": "破防一击 · 造成 {0} 伤害 · {1}",
+      "en": "BREAK STRIKE   -{0} HP   /   {1}"
+    },
+    {
+      "key": "fx.attack.normal",
+      "zh": "普通攻击 · 造成 {0} 伤害 · {1}",
+      "en": "NORMAL STRIKE   -{0} HP   /   {1}"
+    },
+    {
+      "key": "fx.counter",
+      "zh": "敌人反击 {0} 点 · 格挡 {1} 点",
+      "en": "COUNTER {0}   /   BLOCKED {1}"
+    },
+    {
+      "key": "help.title",
+      "zh": "凑幸运数，破防后出击",
+      "en": "ADD. BREAK. STRIKE."
+    },
+    {
+      "key": "help.body",
+      "zh": "1. 开局获得 5 张手牌，每场选择一个第二幸运数字。\n2. 每回合：抽 2 张，或放回 2 张到牌库底，再抽 3 张。\n3. 点击或拖牌到中央；再次点击中央的牌，可以收回。\n4. 牌面相加等于 7 或第二幸运数，即可破防；留一张牌攻击！\n5. 破防用1/2/3+张牌：下次攻击加伤0/2/4；另选一张牌攻击。\n6. 强攻：伤害 +2；守护：格挡 +3；回响：下次额外抽 1 张。\n7. 凑不出幸运数，也可选一张牌普通攻击，伤害会被护甲抵消。\n8. 存活的敌人会反击，下回合护甲恢复。\n9. 未用的牌留在手中，超过 9 张时自行选择弃牌。\n\n击败三名敌人获胜；场间回复 6 点生命，没有时间限制。",
+      "en": "1. Start with 5 cards. Choose a second lucky number each encounter.\n2. Each turn: draw 2 OR return 2 to the deck bottom and draw 3.\n3. Click / drag cards to the table. Click them again to return to hand.\n4. Add to 7 or your lucky number, then BREAK. Keep one attack card!\n5. Break with 1 / 2 / 3+ cards: next hit +0 / +2 / +4. Play one attack card.\n6. STRIKE: +2 damage. WARD: block 3. ECHO: +1 draw next turn.\n7. No lucky sum? Select one card for a NORMAL ATTACK through armor.\n8. Surviving enemies counterattack; armor returns next turn.\n9. Unspent cards stay. Above 9 cards, choose excess cards to discard.\n\nDefeat three enemies. Heal 6 between encounters. No time limit."
+    },
+    {
+      "key": "combo.ready",
+      "zh": "{0}张破防 · 组合加成 +{1} · 破防后另选攻击牌",
+      "en": "{0}-CARD BREAK / COMBO +{1} / THEN PICK AN ATTACK CARD"
+    },
+    {
+      "key": "combo.pending",
+      "zh": "组合加成 +{0} · 请选择攻击牌，查看预计伤害",
+      "en": "COMBO +{0} / PICK AN ATTACK CARD TO PREVIEW DAMAGE"
+    },
+    {
+      "key": "preview.break",
+      "zh": "预计伤害 {0} = 牌面 {1} + 强攻 {2} + 组合 {3}（无视护甲）",
+      "en": "DAMAGE {0} = VALUE {1} + STRIKE {2} + COMBO {3} / IGNORE ARMOR"
+    },
+    {
+      "key": "preview.normal",
+      "zh": "普通攻击预计 {0} = 牌面 {1} + 强攻 {2} - 护甲 {3}（最低1）",
+      "en": "NORMAL DAMAGE {0} = VALUE {1} + STRIKE {2} - ARMOR {3} / MIN 1"
+    },
+    {
+      "key": "combo.locked",
+      "zh": "已破防 · 本次组合加成 +{0}",
+      "en": "ARMOR BROKEN / COMBO BONUS +{0}"
+    },
+    {
+      "key": "combo.short",
+      "zh": "组合 +{0}",
+      "en": "COMBO +{0}"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+{"state": "Victory", "hp": 23, "enemyHp": 0, "armor": 5, "counter": 4, "stage": 2, "turn": 5, "lucky": 1, "bonus": 0, "attacks": 12, "breaks": 10, "secondary": 8, "values": [2, 2, 2, 6, 5, 5], "effects": [2, 1, 0, 2, 0, 1], "candidates": [5, 1, 6], "selected": [false, false, false, false, false, false]}

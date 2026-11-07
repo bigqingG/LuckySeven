@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="zh-Hans">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%230f1922'/%3E%3Ctext x='8' y='25' font-size='27' fill='%23ffcf64'%3E7%3C/text%3E%3C/svg%3E">
+  <title>幸运七</title>
+  <style>
+    *{box-sizing:border-box}html,body{margin:0;width:100%;height:100%;background:#192137;color:#f6e5bc;font-family:Arial,sans-serif}
+    body{display:grid;place-items:center;overflow:hidden}#frame{position:relative;width:min(100vw,177.777vh);aspect-ratio:16/9}
+    canvas{display:block;width:100%;height:100%;outline:none}#loading{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;flex-direction:column;background:#192137}
+    strong{text-shadow:3px 3px #853033;font-weight:900;font-size:42px;letter-spacing:8px;color:#deae60}p{color:#aab5cb;font-size:14px;letter-spacing:2px}progress{width:280px;height:8px;accent-color:#deae60}
+    #error{white-space:pre-wrap;color:#e77b72;max-width:85vw;text-align:center}
+  </style>
+</head>
+<body>
+<main id="frame"><canvas id="unity-canvas" width="{{{ WIDTH }}}" height="{{{ HEIGHT }}}" tabindex="0" aria-label="幸运七卡牌游戏"></canvas>
+<div id="loading"><strong id="loading-title">幸运七</strong><p id="loading-subtitle">正在洗牌，请稍候…</p><progress id="progress" max="1" value="0"></progress><p id="error"></p></div></main>
+<script src="Build/{{{ LOADER_FILENAME }}}"></script>
+<script>
+const canvas=document.querySelector('#unity-canvas');
+window.luckySevenLanguage = code => {
+ const en=code==='en';document.documentElement.lang=en?'en':'zh-Hans';document.title=en?'Lucky Seven':'幸运七';
+ document.querySelector('#loading-title').textContent=en?'LUCKY SEVEN':'幸运七';
+ document.querySelector('#loading-subtitle').textContent=en?'SHUFFLING YOUR DECK':'正在洗牌，请稍候…';
+ canvas.setAttribute('aria-label',en?'Lucky Seven card game':'幸运七卡牌游戏');
+ try{localStorage.setItem('LuckySeven.WebLocale',code)}catch(e){}
+};
+let initialLocale='zh-Hans';try{initialLocale=localStorage.getItem('LuckySeven.WebLocale')||initialLocale}catch(e){}
+window.luckySevenLanguage(initialLocale);
+function showLoadError(error){console.error(error);document.querySelector('#error').textContent=document.documentElement.lang==='en'?'Unable to load. Refresh to retry.':'加载失败，请刷新页面重试。';}
+
+const config={dataUrl:'Build/{{{ DATA_FILENAME }}}',frameworkUrl:'Build/{{{ FRAMEWORK_FILENAME }}}',codeUrl:'Build/{{{ CODE_FILENAME }}}',streamingAssetsUrl:'StreamingAssets',companyName:{{{ JSON.stringify(COMPANY_NAME) }}},productName:{{{ JSON.stringify(PRODUCT_NAME) }}},productVersion:{{{ JSON.stringify(PRODUCT_VERSION) }}},showBanner:(message,type)=>{if(type==='error')showLoadError(message)}};
+createUnityInstance(canvas,config,p=>document.querySelector('#progress').value=p).then(instance=>{document.querySelector('#loading').style.display='none';canvas.focus();}).catch(error=>{showLoadError(error)});
+</script>
+</body></html>

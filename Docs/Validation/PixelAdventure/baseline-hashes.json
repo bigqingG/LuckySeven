@@ -1,0 +1,17 @@
+[
+  {
+    "Algorithm": "SHA256",
+    "Hash": "ED48B093F7DF0FECECA1FB9B640D16D4403CFB4E177AA64C6835C3812D0E6D4B",
+    "Path": "E:\\MyUnityProjects\\Lucky Seven\\Assets\\_LuckySeven\\Scripts\\Core\\BattleSession.cs"
+  },
+  {
+    "Algorithm": "SHA256",
+    "Hash": "643F5C1F630DF2AC9B20D166030DF582107F37AB31916A58835CD780B02F4F21",
+    "Path": "E:\\MyUnityProjects\\Lucky Seven\\Assets\\_LuckySeven\\Config\\GameConfig.asset"
+  },
+  {
+    "Algorithm": "SHA256",
+    "Hash": "3FE783B7BD29D12E1EFEB1A31CD4DA7D7AA144A9AAF156C5F1EBB5C0C9946330",
+    "Path": "E:\\MyUnityProjects\\Lucky Seven\\Assets\\_LuckySeven\\Scenes\\Main.unity"
+  }
+]

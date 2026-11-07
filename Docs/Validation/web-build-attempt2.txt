@@ -1,0 +1,7 @@
+Result: Succeeded
+Platform: WebGL
+Size: 27435736
+Errors: 2
+Warnings: 1
+Duration: 00:00:29.4332692
+Output: E:/MyUnityProjects/Lucky Seven/Builds/WebGL

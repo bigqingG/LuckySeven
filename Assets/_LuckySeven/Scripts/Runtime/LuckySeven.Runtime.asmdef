@@ -1,0 +1,13 @@
+{
+  "name": "LuckySeven.Runtime",
+  "rootNamespace": "LuckySeven",
+  "references": [
+    "LuckySeven.Core",
+    "Unity.TextMeshPro",
+    "Unity.ugui",
+    "Unity.InputSystem",
+    "Unity.Localization",
+    "Unity.ResourceManager",
+    "Unity.Addressables"
+  ]
+}

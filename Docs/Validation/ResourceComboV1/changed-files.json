@@ -1,0 +1,107 @@
+[
+  {
+    "path": "Assets/_LuckySeven/Editor/LuckySevenPixelTools.cs",
+    "status": "changed",
+    "sha256": "c82c4a0fb1376110c06758ebb0ce09df25f5a55d2512d80bc09bb6ffb8183550"
+  },
+  {
+    "path": "Assets/_LuckySeven/Editor/LuckySevenProjectTools.cs",
+    "status": "changed",
+    "sha256": "15325b1643b856dced135c2d9997298a576f99a68a1ddbfdb2fdff8a5d903f60"
+  },
+  {
+    "path": "Assets/_LuckySeven/Editor/LuckySevenValidationRunner.cs",
+    "status": "changed",
+    "sha256": "551b4d9c98a564ba1c6895f74d132a527f56add24bf383f4321f19fbb40abc94"
+  },
+  {
+    "path": "Assets/_LuckySeven/Localization/GameText Shared Data.asset",
+    "status": "changed",
+    "sha256": "5318e8708f5cd9750000e87242f51b2faf7f14b69a6676fcf35b15e9074dbe04"
+  },
+  {
+    "path": "Assets/_LuckySeven/Localization/GameText.json",
+    "status": "changed",
+    "sha256": "55d9bd7ec2e27bc60367829eea91208cbf9c06634fbf80f6707d0a9542f2c5dc"
+  },
+  {
+    "path": "Assets/_LuckySeven/Localization/GameText_en.asset",
+    "status": "changed",
+    "sha256": "b59a6bfb9593e97067fc15177df43f81a61b9be46678895a89b70e7f070bd506"
+  },
+  {
+    "path": "Assets/_LuckySeven/Localization/GameText_zh-Hans.asset",
+    "status": "changed",
+    "sha256": "43b02c811c815e65e1f080ca186e1094b4c44e66f820516fcbaf34c1e03fd456"
+  },
+  {
+    "path": "Assets/_LuckySeven/Scripts/Core/BattleSession.cs",
+    "status": "changed",
+    "sha256": "6ccb85a4ef88c910eaa9c2cecca75d1c27dbb7a9ea294742140943c6f0aec026"
+  },
+  {
+    "path": "Assets/_LuckySeven/Scripts/Runtime/Game/GameFlowController.cs",
+    "status": "changed",
+    "sha256": "7eeb22c35f8355c65f397d5b6375de02862562bf798776ce4e764fdafffe5f57"
+  },
+  {
+    "path": "Assets/_LuckySeven/Scripts/Runtime/Game/WebVisibleState.cs",
+    "status": "changed",
+    "sha256": "9e5814a60445f94e094e306aaeb59ee5f64f76561da6346a2a618f8507524965"
+  },
+  {
+    "path": "Assets/_LuckySeven/Scripts/Runtime/UI/BattleHUDView.cs",
+    "status": "changed",
+    "sha256": "e3f51778f12ed0ded12e26ae928ae9a4e54b38b56084d7ad7cb81812ee86e7dc"
+  },
+  {
+    "path": "Assets/_LuckySeven/Scripts/Runtime/UI/BattleHUDView.Pixel.cs",
+    "status": "changed",
+    "sha256": "824971e2ac1a20247e9115c8eddb759ba4bcac826cac1fd9f74c4fe17773d673"
+  },
+  {
+    "path": "Assets/_LuckySeven/Tests/EditMode/ResourceComboTests.cs",
+    "status": "added",
+    "sha256": "9282813c1996bdd9947eb20228d59b51c9fbd89ee8826e7352f50bf6e073be00"
+  },
+  {
+    "path": "Assets/_LuckySeven/Tests/EditMode/ResourceComboTests.cs.meta",
+    "status": "added",
+    "sha256": "60852c5c87d30b9cb2ce3282449173289ca0023f9a362a2bdc5f5ae0099fc978"
+  },
+  {
+    "path": "Assets/_LuckySeven/Tests/EditMode/RulesTests.cs",
+    "status": "changed",
+    "sha256": "2752499bb9d2777445a9de3183ef778f7c88cac0a71315acbedfedd5f7be8dd7"
+  },
+  {
+    "path": "Assets/_LuckySeven/Tests/PlayMode/LocalizationCardTests.cs",
+    "status": "changed",
+    "sha256": "ad24da731e963c40c7a0590d18e28594d271acfb2fbb2af821afd764d3e638b8"
+  },
+  {
+    "path": "Assets/_LuckySeven/Tests/PlayMode/PixelPresentationTests.cs",
+    "status": "changed",
+    "sha256": "c37ad56961b29281a46b4daf65e7e35e5554b6769092c4a2db52f1fd5127afb8"
+  },
+  {
+    "path": "Assets/_LuckySeven/Tests/PlayMode/ResourceComboPresentationTests.cs",
+    "status": "added",
+    "sha256": "b607281555382366c35bf82a52dceb98aa028b7668683cef81530e2c8bf54cf3"
+  },
+  {
+    "path": "Assets/_LuckySeven/Tests/PlayMode/ResourceComboPresentationTests.cs.meta",
+    "status": "added",
+    "sha256": "763f9552e78d16dc44114c49e94414b1a8d268a50a1dfe1903f850c5d6f29f68"
+  },
+  {
+    "path": "Tools/Invoke-UnityCommand.ps1",
+    "status": "changed",
+    "sha256": "ee03c764b18328eeb20b4540df7cdde9df9a5f8a14453df104f15670417f06cc"
+  },
+  {
+    "path": "Tools/Validate-ResourceCombo.py",
+    "status": "added",
+    "sha256": "3b9f3f86042f3700866c33467e46625b8a8627067e9b489437c2bb710286f0a6"
+  }
+]

@@ -1,0 +1,63 @@
+{
+  "browser": "156.0.4314.50",
+  "durationSeconds": 40.67200000002049,
+  "pageErrors": [],
+  "consoleErrors": [],
+  "final": {
+    "state": "PlayerInput",
+    "hp": 30,
+    "enemyHp": 9,
+    "armor": 3,
+    "counter": 2,
+    "stage": 0,
+    "turn": 2,
+    "lucky": 6,
+    "bonus": 0,
+    "attacks": 1,
+    "breaks": 1,
+    "secondary": 0,
+    "values": [
+      8,
+      7,
+      8,
+      8,
+      2,
+      1,
+      2
+    ],
+    "effects": [
+      2,
+      1,
+      1,
+      0,
+      1,
+      2,
+      0
+    ],
+    "candidates": [
+      6,
+      10,
+      2
+    ],
+    "selected": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "checks": [
+    "click stage",
+    "click return",
+    "invalid drop snaps back",
+    "drag stage without duplicate click",
+    "drag return",
+    "2+5 break",
+    "attack card return and drag",
+    "exchange staging and return"
+  ],
+  "method": "Real browser mouse clicks and pointer dragging; read-only visible HUD assertions."
+}

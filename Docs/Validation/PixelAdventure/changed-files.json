@@ -1,0 +1,146 @@
+{
+  "changes": [
+    {
+      "path": "Assets/_LuckySeven/Art.meta",
+      "change": "added",
+      "bytes": 172
+    },
+    {
+      "path": "Assets/_LuckySeven/Art/PixelAdventure.meta",
+      "change": "added",
+      "bytes": 172
+    },
+    {
+      "path": "Assets/_LuckySeven/Editor/LuckySevenPixelTools.cs",
+      "change": "added",
+      "bytes": 4393
+    },
+    {
+      "path": "Assets/_LuckySeven/Editor/LuckySevenPixelTools.cs.meta",
+      "change": "added",
+      "bytes": 59
+    },
+    {
+      "path": "Assets/_LuckySeven/Editor/LuckySevenProjectTools.cs",
+      "change": "modified",
+      "bytes": 9310
+    },
+    {
+      "path": "Assets/_LuckySeven/Editor/LuckySevenValidationRunner.cs",
+      "change": "modified",
+      "bytes": 4464
+    },
+    {
+      "path": "Assets/_LuckySeven/Fonts/ChineseSDF.asset",
+      "change": "modified",
+      "bytes": 1672763
+    },
+    {
+      "path": "Assets/_LuckySeven/Localization/GameText Shared Data.asset",
+      "change": "modified",
+      "bytes": 6256
+    },
+    {
+      "path": "Assets/_LuckySeven/Localization/GameText.json",
+      "change": "modified",
+      "bytes": 10411
+    },
+    {
+      "path": "Assets/_LuckySeven/Localization/GameText_en.asset",
+      "change": "modified",
+      "bytes": 8488
+    },
+    {
+      "path": "Assets/_LuckySeven/Localization/GameText_zh-Hans.asset",
+      "change": "modified",
+      "bytes": 11155
+    },
+    {
+      "path": "Assets/_LuckySeven/Scenes/Main.unity",
+      "change": "modified",
+      "bytes": 762766
+    },
+    {
+      "path": "Assets/_LuckySeven/Art/PixelAdventure/Characters.png",
+      "change": "added",
+      "bytes": 811812
+    },
+    {
+      "path": "Assets/_LuckySeven/Art/PixelAdventure/Characters.png.meta",
+      "change": "added",
+      "bytes": 5143
+    },
+    {
+      "path": "Assets/_LuckySeven/Scripts/Runtime/Presentation/BattleFxPlayer.cs",
+      "change": "modified",
+      "bytes": 4279
+    },
+    {
+      "path": "Assets/_LuckySeven/Scripts/Runtime/Presentation/PixelBattleFx.cs",
+      "change": "added",
+      "bytes": 3450
+    },
+    {
+      "path": "Assets/_LuckySeven/Scripts/Runtime/Presentation/PixelBattleFx.cs.meta",
+      "change": "added",
+      "bytes": 59
+    },
+    {
+      "path": "Assets/_LuckySeven/Scripts/Runtime/UI/BattleHUDView.cs",
+      "change": "modified",
+      "bytes": 23921
+    },
+    {
+      "path": "Assets/_LuckySeven/Scripts/Runtime/UI/BattleHUDView.Pixel.cs",
+      "change": "added",
+      "bytes": 11826
+    },
+    {
+      "path": "Assets/_LuckySeven/Scripts/Runtime/UI/BattleHUDView.Pixel.cs.meta",
+      "change": "added",
+      "bytes": 59
+    },
+    {
+      "path": "Assets/_LuckySeven/Scripts/Runtime/UI/CardMotion.cs",
+      "change": "modified",
+      "bytes": 4602
+    },
+    {
+      "path": "Assets/_LuckySeven/Scripts/Runtime/UI/PixelGraphic.cs",
+      "change": "added",
+      "bytes": 5344
+    },
+    {
+      "path": "Assets/_LuckySeven/Scripts/Runtime/UI/PixelGraphic.cs.meta",
+      "change": "added",
+      "bytes": 59
+    },
+    {
+      "path": "Assets/_LuckySeven/Scripts/Runtime/UI/PokerCardFace.cs",
+      "change": "modified",
+      "bytes": 2237
+    },
+    {
+      "path": "Assets/_LuckySeven/Tests/PlayMode/LocalizationCardTests.cs",
+      "change": "modified",
+      "bytes": 4208
+    },
+    {
+      "path": "Assets/_LuckySeven/Tests/PlayMode/PixelPresentationTests.cs",
+      "change": "added",
+      "bytes": 3693
+    },
+    {
+      "path": "Assets/_LuckySeven/Tests/PlayMode/PixelPresentationTests.cs.meta",
+      "change": "added",
+      "bytes": 59
+    },
+    {
+      "path": "Assets/_LuckySeven/Tests/PlayMode/TableInteractionTests.cs",
+      "change": "modified",
+      "bytes": 3287
+    }
+  ],
+  "removed": [],
+  "scene_guid_preserved": true
+}

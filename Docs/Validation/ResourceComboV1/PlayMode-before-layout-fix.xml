@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" testcasecount="5" result="Failed(Child)" total="5" passed="4" failed="1" inconclusive="0" skipped="0" asserts="0" engine-version="3.5.0.0" clr-version="4.0.30319.42000" start-time="2026-11-07 06:26:16Z" end-time="2026-11-07 06:26:40Z" duration="24.0587256">
+  <test-suite type="TestSuite" id="1017" name="Lucky Seven" fullname="Lucky Seven" runstate="Runnable" testcasecount="5" result="Failed" site="Child" start-time="2026-11-07 06:26:16Z" end-time="2026-11-07 06:26:40Z" duration="24.058726" total="5" passed="4" failed="1" inconclusive="0" skipped="0" asserts="0">
+    <properties>
+      <property name="platform" value="PlayMode" />
+    </properties>
+    <failure>
+      <message><![CDATA[One or more child tests had errors]]></message>
+    </failure>
+    <test-suite type="Assembly" id="1011" name="LuckySeven.PlayModeTests.dll" fullname="E:/MyUnityProjects/Lucky Seven/Library/ScriptAssemblies/LuckySeven.PlayModeTests.dll" runstate="Runnable" testcasecount="5" result="Failed" site="Child" start-time="2026-11-07 06:26:16Z" end-time="2026-11-07 06:26:40Z" duration="24.033828" total="5" passed="4" failed="1" inconclusive="0" skipped="0" asserts="0">
+      <properties>
+        <property name="_PID" value="116692" />
+        <property name="_APPDOMAIN" value="Unity Child Domain" />
+        <property name="platform" value="PlayMode" />
+        <property name="EditorOnly" value="False" />
+      </properties>
+      <failure>
+        <message><![CDATA[One or more child tests had errors]]></message>
+      </failure>
+      <test-suite type="TestSuite" id="1012" name="LuckySeven" fullname="LuckySeven" runstate="Runnable" testcasecount="5" result="Failed" site="Child" start-time="2026-11-07 06:26:16Z" end-time="2026-11-07 06:26:40Z" duration="24.031468" total="5" passed="4" failed="1" inconclusive="0" skipped="0" asserts="0">
+        <properties />
+        <failure>
+          <message><![CDATA[One or more child tests had errors]]></message>
+        </failure>
+        <test-suite type="TestSuite" id="1013" name="Tests" fullname="LuckySeven.Tests" runstate="Runnable" testcasecount="5" result="Failed" site="Child" start-time="2026-11-07 06:26:16Z" end-time="2026-11-07 06:26:40Z" duration="24.029215" total="5" passed="4" failed="1" inconclusive="0" skipped="0" asserts="0">
+          <properties />
+          <failure>
+            <message><![CDATA[One or more child tests had errors]]></message>
+          </failure>
+          <test-suite type="TestFixture" id="1001" name="FlowTests" fullname="LuckySeven.Tests.FlowTests" classname="LuckySeven.Tests.FlowTests" runstate="Runnable" testcasecount="1" result="Passed" start-time="2026-11-07 06:26:16Z" end-time="2026-11-07 06:26:31Z" duration="14.207153" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+            <properties />
+            <test-case id="1002" name="CardUiCompleteRunAndReplay" fullname="LuckySeven.Tests.FlowTests.CardUiCompleteRunAndReplay" methodname="CardUiCompleteRunAndReplay" classname="LuckySeven.Tests.FlowTests" runstate="Runnable" seed="1569372569" result="Passed" start-time="2026-11-07 06:26:16Z" end-time="2026-11-07 06:26:31Z" duration="14.184938" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="Timeout" value="60000" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" id="1003" name="LocalizationCardTests" fullname="LuckySeven.Tests.LocalizationCardTests" classname="LuckySeven.Tests.LocalizationCardTests" runstate="Runnable" testcasecount="1" result="Passed" start-time="2026-11-07 06:26:31Z" end-time="2026-11-07 06:26:33Z" duration="2.476831" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+            <properties />
+            <test-case id="1004" name="ChineseEnglishSwitchPreservesBattleAndHoverIsReadable" fullname="LuckySeven.Tests.LocalizationCardTests.ChineseEnglishSwitchPreservesBattleAndHoverIsReadable" methodname="ChineseEnglishSwitchPreservesBattleAndHoverIsReadable" classname="LuckySeven.Tests.LocalizationCardTests" runstate="Runnable" seed="138945558" result="Passed" start-time="2026-11-07 06:26:31Z" end-time="2026-11-07 06:26:33Z" duration="2.471649" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="Timeout" value="60000" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" id="1005" name="PixelPresentationTests" fullname="LuckySeven.Tests.PixelPresentationTests" classname="LuckySeven.Tests.PixelPresentationTests" runstate="Runnable" testcasecount="1" result="Passed" start-time="2026-11-07 06:26:33Z" end-time="2026-11-07 06:26:36Z" duration="2.909576" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+            <properties />
+            <test-case id="1006" name="PixelSkinShowsArtAndSeparatesBreakFromDamage" fullname="LuckySeven.Tests.PixelPresentationTests.PixelSkinShowsArtAndSeparatesBreakFromDamage" methodname="PixelSkinShowsArtAndSeparatesBreakFromDamage" classname="LuckySeven.Tests.PixelPresentationTests" runstate="Runnable" seed="1331819206" result="Passed" start-time="2026-11-07 06:26:33Z" end-time="2026-11-07 06:26:36Z" duration="2.893435" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="Timeout" value="60000" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" id="1007" name="ResourceComboPresentationTests" fullname="LuckySeven.Tests.ResourceComboPresentationTests" classname="LuckySeven.Tests.ResourceComboPresentationTests" runstate="Runnable" testcasecount="1" result="Failed" site="Child" start-time="2026-11-07 06:26:36Z" end-time="2026-11-07 06:26:37Z" duration="0.594460" total="1" passed="0" failed="1" inconclusive="0" skipped="0" asserts="0">
+            <properties />
+            <failure>
+              <message><![CDATA[One or more child tests had errors]]></message>
+            </failure>
+            <test-case id="1008" name="ComboAndDamagePreviewFollowSelectionAndLanguage" fullname="LuckySeven.Tests.ResourceComboPresentationTests.ComboAndDamagePreviewFollowSelectionAndLanguage" methodname="ComboAndDamagePreviewFollowSelectionAndLanguage" classname="LuckySeven.Tests.ResourceComboPresentationTests" runstate="Runnable" seed="1844804557" result="Failed" start-time="2026-11-07 06:26:36Z" end-time="2026-11-07 06:26:37Z" duration="0.577856" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="Timeout" value="60000" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+              <failure>
+                <message><![CDATA[  Sum must fit vertically
+  Expected: less than or equal to 33.0f
+  But was:  36.2000008f
+]]></message>
+                <stack-trace><![CDATA[at LuckySeven.Tests.ResourceComboPresentationTests+<ComboAndDamagePreviewFollowSelectionAndLanguage>d__1.MoveNext () [0x004cc] in E:\MyUnityProjects\Lucky Seven\Assets\_LuckySeven\Tests\PlayMode\ResourceComboPresentationTests.cs:36
+at UnityEngine.TestTools.TestEnumerator+<Execute>d__7.MoveNext () [0x0004e] in .\Library\PackageCache\com.unity.test-framework@0b7a23ab2e1d\UnityEngine.TestRunner\NUnitExtensions\Attributes\TestEnumerator.cs:44
+]]></stack-trace>
+              </failure>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" id="1009" name="TableInteractionTests" fullname="LuckySeven.Tests.TableInteractionTests" classname="LuckySeven.Tests.TableInteractionTests" runstate="Runnable" testcasecount="1" result="Passed" start-time="2026-11-07 06:26:37Z" end-time="2026-11-07 06:26:40Z" duration="3.836928" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+            <properties />
+            <test-case id="1010" name="StageReturnAndDragRejectInvalidDrops" fullname="LuckySeven.Tests.TableInteractionTests.StageReturnAndDragRejectInvalidDrops" methodname="StageReturnAndDragRejectInvalidDrops" classname="LuckySeven.Tests.TableInteractionTests" runstate="Runnable" seed="1049322902" result="Passed" start-time="2026-11-07 06:26:37Z" end-time="2026-11-07 06:26:40Z" duration="3.832806" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="Timeout" value="60000" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+              <output><![CDATA[Saving results to: Docs/Validation/ResourceComboV1/PlayMode.xml
+]]></output>
+            </test-case>
+          </test-suite>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

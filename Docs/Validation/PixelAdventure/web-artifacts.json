@@ -1,0 +1,96 @@
+{
+  "root": "E:\\MyUnityProjects\\Lucky Seven\\Builds\\WebGLV2",
+  "bytes_on_disk": 35936543,
+  "files": [
+    {
+      "path": "Build/WebGLV2.data.unityweb",
+      "bytes": 14001064,
+      "sha256": "231321e318b95dd5fc7d4654f003162efa8d6682b863afae2731ce06744b45f7"
+    },
+    {
+      "path": "Build/WebGLV2.framework.js.unityweb",
+      "bytes": 92888,
+      "sha256": "da9bd2dd1e4dc6cee8b4638818c9f4680af25220190d075e455d0e680baf68f0"
+    },
+    {
+      "path": "Build/WebGLV2.loader.js",
+      "bytes": 47866,
+      "sha256": "57584dd78d2a10ea2947af47a5e36dfc4bea898a0cf55f0e6dbf68d2e6114ca9"
+    },
+    {
+      "path": "Build/WebGLV2.wasm.unityweb",
+      "bytes": 14403354,
+      "sha256": "b521cc2c95f3fb285671e601fc16f77c2e9941482d56d60e7671904cc5bd92e3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3110,
+      "sha256": "7001651cb616f90eb36155f31b41ed786410c43fa9cab30d10a41cc448cbb71c"
+    },
+    {
+      "path": "StreamingAssets/aa/AddressablesLink/link.xml",
+      "bytes": 3921,
+      "sha256": "770060c486380a6d9ab7d3085e1d15eaec94adcce944056aa1344ec429508b21"
+    },
+    {
+      "path": "StreamingAssets/aa/catalog.bin",
+      "bytes": 5984,
+      "sha256": "f022b710231848ccc108de8e3b6941bb8697ec8684afa76bb502fb5be199b71d"
+    },
+    {
+      "path": "StreamingAssets/aa/catalog.hash",
+      "bytes": 32,
+      "sha256": "b57457d296e8ab41f4d1117aad91dd83484761412705becba9caad638c7f93fc"
+    },
+    {
+      "path": "StreamingAssets/aa/settings.json",
+      "bytes": 850,
+      "sha256": "76de1037634c5bb8b4d7a3b84dac9d35b905bb16caec2eabcc769094b3d43e3d"
+    },
+    {
+      "path": "StreamingAssets/aa/WebGL/defaultlocalgroup_assets_all_54b1d0c74585fa75ad3ff2af71e81095.bundle",
+      "bytes": 7352915,
+      "sha256": "6774cf718076e43d0f00df358cbeec92500a4f9e7a162d228634c99eaeb3443f"
+    },
+    {
+      "path": "StreamingAssets/aa/WebGL/e38628b64cd7d912ef6715e97b255dbe_monoscripts_ace83bdd0e77acefa9712b3d9b9d04a8.bundle",
+      "bytes": 1835,
+      "sha256": "36ed9d95cf7f40fc0051c1b2b77b8903ea02c8f00d29ffb0a9b37ce24dc4118c"
+    },
+    {
+      "path": "StreamingAssets/aa/WebGL/localization-asset-tables-en_assets_all_1228c7210abe8a0730ae6338d121d615.bundle",
+      "bytes": 2151,
+      "sha256": "e36d99b8e352c0070368f51e57b84c8e7a541dd7c93d988212dd23577dd21df5"
+    },
+    {
+      "path": "StreamingAssets/aa/WebGL/localization-asset-tables-zh-hans_assets_all_f3ee4e920f789de69c468d957d4d6515.bundle",
+      "bytes": 2152,
+      "sha256": "b0bb51784cbfd731b06bfe1b644d4bc7855cb7fdc0db4379bf99104632191bfa"
+    },
+    {
+      "path": "StreamingAssets/aa/WebGL/localization-assets-shared_assets_all_5b5f792b6aabfc2d4fabf3e391e61f4d.bundle",
+      "bytes": 3236,
+      "sha256": "e373b6070e406afab0b9a1dbfb99fed248f7d43b9a9a026069e4f216d15861b0"
+    },
+    {
+      "path": "StreamingAssets/aa/WebGL/localization-locales_assets_all_9e3aa2262ed29c4b3df5b595e1767162.bundle",
+      "bytes": 2071,
+      "sha256": "5682260657a9afb85eeffb176bfb3b8569ad5d7dee748820643ea2cbc092aae3"
+    },
+    {
+      "path": "StreamingAssets/aa/WebGL/localization-string-tables-en_assets_all_4eec9e6b9322982c2517f57377c48c91.bundle",
+      "bytes": 4291,
+      "sha256": "9867e3a97d96e7c392c2cf78bd91c12d9b220f4e09fc39467c78483f4e5bdd70"
+    },
+    {
+      "path": "StreamingAssets/aa/WebGL/localization-string-tables-zh-hans_assets_all_29bf023fe50a3453c5fd42c6cfcac299.bundle",
+      "bytes": 4435,
+      "sha256": "e6d95e961bc51b63185f7325f70bc44763de8ed23e61bf4e5707d678058935ff"
+    },
+    {
+      "path": "StreamingAssets/ThirdPartyNotices/NotoSansSC-OFL.txt",
+      "bytes": 4388,
+      "sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9"
+    }
+  ]
+}

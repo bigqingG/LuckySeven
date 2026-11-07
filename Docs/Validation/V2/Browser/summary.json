@@ -1,0 +1,76 @@
+{
+  "browser": "156.0.4314.50",
+  "durationSeconds": 109.17099999997299,
+  "tracks": [
+    "audio",
+    "video"
+  ],
+  "pageErrors": [],
+  "consoleErrors": [],
+  "final": {
+    "state": "Victory",
+    "hp": 23,
+    "enemyHp": 0,
+    "armor": 5,
+    "counter": 4,
+    "stage": 2,
+    "turn": 5,
+    "lucky": 1,
+    "bonus": 0,
+    "attacks": 12,
+    "breaks": 10,
+    "secondary": 8,
+    "values": [
+      2,
+      2,
+      2,
+      6,
+      5,
+      5
+    ],
+    "effects": [
+      2,
+      1,
+      0,
+      2,
+      0,
+      1
+    ],
+    "candidates": [
+      5,
+      1,
+      6
+    ],
+    "selected": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "phases": [
+    "AttackChoice",
+    "BetweenBattles",
+    "ChooseLucky",
+    "ExchangeSelection",
+    "MainMenu",
+    "PlayerInput",
+    "SupplyChoice",
+    "TrimHand",
+    "Victory"
+  ],
+  "exchange": true,
+  "normal": true,
+  "overflow": true,
+  "replay": true,
+  "method": "Real browser mouse clicks; read-only visible HUD snapshot, no game-state mutation.",
+  "attackEffectCoverage": {
+    "Strike": 5,
+    "Ward": 5,
+    "Echo": 2
+  },
+  "sevenBreaks": 2,
+  "videoDurationSeconds": 106.41
+}

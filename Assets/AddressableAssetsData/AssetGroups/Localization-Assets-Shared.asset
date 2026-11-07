@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Localization-Assets-Shared
+  m_GUID: 3495ec0f0437a5a47bb73728f12b89e9
+  m_SerializeEntries:
+  - m_GUID: 8a581ed500b6a294bbdb85f7bd5108f7
+    m_Address: Assets/_LuckySeven/Localization/GameText Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: feb2ed268e20961478c34cc14587d977
+    m_Address: Assets/_LuckySeven/Localization/GameAssets Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: bc305e7843ed3af4f9f225bf88926053, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 25126d55a1f497a43806158b422f5637, type: 2}
+    - {fileID: 11400000, guid: 3cb5ada24f6febf48b92f1764f081734, type: 2}
+    - {fileID: 11400000, guid: 12745e0c73ee42547bc8408fb7ff28e6, type: 2}
