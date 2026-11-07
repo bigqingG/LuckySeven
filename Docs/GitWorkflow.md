@@ -1,6 +1,6 @@
 # Git 使用说明
 
-本项目使用本地 Git 仓库，主分支 `main`。初始版本包含资源与组合 V1：抽2、换2抽3、组合加伤0/2/4和伤害预览。尚未配置远程仓库。
+本项目仓库根目录为 `E:/MyUnityProjects/Lucky Seven`，主分支 `main`，跟踪 `origin/main`。远程 `origin` 为 `https://github.com/bigqingG/LuckySeven.git`。初始游戏版本包含资源与组合 V1：抽2、换2抽3、组合加伤0/2/4和伤害预览。
 
 ## 纳入版本管理的内容
 
@@ -26,17 +26,20 @@ git diff
 git add Assets Packages ProjectSettings Docs Tools
 git diff --cached --stat
 git commit -m "Add post-battle reward selection"
+# 首次推送当前功能分支。
+git push -u origin feature/battle-rewards
 ```
 
 上面的分支名和提交说明是未来功能的示例，并不代表战后奖励已经实现。提交前保存 Unity 场景和资源；确认没有把临时文件一起加入。
 
 ## 新电脑克隆
 
-安装 Git、Git LFS 和 Unity 6000.3.7f1（含 Web Build Support）。配置远程仓库后：
+安装 Git、Git LFS 和 Unity 6000.3.7f1（含 Web Build Support）：
 
 ```powershell
 git lfs install
-# 使用实际远程地址执行 git clone，然后进入项目目录。
+git clone https://github.com/bigqingG/LuckySeven.git
+cd LuckySeven
 git lfs pull
 git lfs fsck
 ```
@@ -49,4 +52,6 @@ git lfs fsck
 
 本机配置 UnityYAMLMerge 驱动，路径为 `D:/6000.3.7f1/Editor/Data/Tools/UnityYAMLMerge.exe`。`.gitattributes` 会随仓库克隆，`.git/config` 的本机工具路径不会；其他电脑需要按自己的 Unity 安装路径配置该驱动。遇到场景或预制体冲突，合并后仍需在 Unity 检查引用和场景内容。
 
-远程仓库地址确定后再添加 `origin` 并推送；本次初始化没有创建远程仓库，也没有上传项目。
+2026-11-07 已将外层 Unity 项目关联到上述远程，并合并远程原有 Initial commit，保留双方历史。远程初始 `.gitattributes` 只有自动文本识别规则，合并时采用本项目包含 Unity、换行及 LFS 设置的完整版本。
+
+误克隆到项目内部的 `LuckySeven` 子仓库已完整移至本机 `Backups/NestedGitClone-20261107-190845`，不纳入版本管理。以后在外层 Unity 项目目录使用 Git，不要再次克隆到项目内部。
